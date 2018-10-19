@@ -1,0 +1,69 @@
+Point Grey Research Flea2 Firmware Release Notes
+----------------------------------------------------------------
+
+We welcome your bug reports, suggestions, and comments: 
+www.ptgrey.com/support/contact/
+
+
+Change Log
+----------
+
+1.2.2.00 (16 December 2008)
+[1] Bug 7124:  Improved saturation in all FL2 models when camera operates at different pixel clock speeds. 
+[2] Bug 7093: Changed firmware architecture to separate the config ROM file.  This allows custom vendor and model strings to be maintained when firmware is updated.
+[3] Fixed the bit order of writes to the FireWire PHY register. (This register is not currently supported in the Flea2.)
+
+0.9.2.8 (22 Jan 2008)
+[1] Bug 5797: Image timestamp information incorrect
+
+0.9.2.6 (06 Dec 2007)
+[1] Default GPIO state changed back to original (pre-0.9.0.1) settings
+
+0.9.2.5 (05 Dec 2007)
+[1] Enhancement: pixel correction support (FL2-03S2 and FL2-08S2)
+[2] First Release Candidate version
+
+0.9.0.4 (21 Aug 2007)
+[1] Initial support for Trigger Mode 15 (multi-shot trigger)
+[2] Initial support for HDR multiple exposure quick cycle mode
+
+0.9.0.3 (09 Jul 2007)
+[1] Bug 5311:	Image instability in trigger mode 4 or 5 at fast frame rates
+[2] Fixed a potential bug when trigger occurs (bug could result in image flickering)
+
+0.9.0.2 (25 May 2007)
+[1] Enhancement: increase FL2-20S4C/M signal-to-noise ratio at greater than 15fps
+[2] Enhancement: improve FL2-20S4C/M and FL2-14S3C/M image quality under certain conditions
+
+0.9.0.1 (08 May 2007)
+[1] Bug 5171:	Enhancement: Report time from initialization and time from last bus reset
+[2] Bug 4814:	Improve image quality (FL2-03S2M/C and FL2-08S2M/C only)
+[3] Bug 5186:	Serial port receive reporting incorrect characters at 115.2Kbps
+[4] Enhancement: increase FL2-20S4M/C 1600x1200 frame rate to 15fps
+[5] Support ICX204/424 v1.4 board (will result in change to MAIN_BOARD_INFO Minor_Board_Rev)
+
+0.0.0.21 (10 Apr 2007)
+[1] Change FL2-20S4C start default mode from RGB 7.5fps (requires S800) to YUV422 7.5fps (S400)
+
+0.0.0.20 (16 Mar 2007)
+[1] Bug 4982:	Transmit failure when streaming through two or more repeaters
+[2] Bug 4987:	Strobe pulse duration changes with frame rate
+[2] Improved support for other image sensors
+
+0.0.0.16 (05 Feb 2007)
+[2] Improved support for other image sensors
+
+0.0.0.13 (04 Dec 2006)
+[1] Bug 4686:	Random dark images using trigger mode and short shutter times.
+
+0.0.0.12 (28 Nov 2006)
+[1] Added support for other image sensors
+[2] Bug 4032:	Change 08S2C default mode to 7.5fps RGB
+[3] Other low-level modifications - changes should be transparent to users
+
+0.0.0.11 (14 Sep 2006)
+[1] Bug 4393:	Embedded image info doesn't work
+[2] Add image raw data flip function
+[3] Add power monitor function
+[4] Bug 4318:	Pixel shift going from 640x480 Y8 to Y16 (FL2-14S3 version)
+[5] Bug 4569:	Flying black spots in the images

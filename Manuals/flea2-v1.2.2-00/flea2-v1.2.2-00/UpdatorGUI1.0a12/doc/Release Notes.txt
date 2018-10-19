@@ -1,0 +1,69 @@
+Release Notes:
+
+Release Version 1.0.0.12 (07 May 2007 )
+1. Updated for new cameras, bug 5191.
+2. Fixed incorrect display values, bug 4710.
+
+Release Version 1.0.0.11 (25 May 2006)
+1. Fixed command line update for more than device 0.
+2. Fixed Virtual driver installation error.
+
+Release Version 1.0.0.10
+1. Added support for new driver interface GUID_PGRCAM_NEW
+2. Added support for PGR1394b driver.
+ 
+Release Version 1.0.0.09
+1. Removed check for PGR node vendor id.
+2. Fixed hidden bus virtual driver install.
+
+Release Version 1.0.0.08
+1. Added Virtual Driver for each 1394 bus.
+
+Release Version 1.0.0.07
+1. Added Virtual Driver for Windows XP
+2. Updated Logo.
+3. Created OEM version
+
+Release Version 1.0.0.06
+1. Removed cygwin1.dll and fmt_file.ext from release.
+2. Added ability to update ladybug2 head with .cal file.
+
+Release Version 1.0.0.05
+1. added more basic checking for cameras to work with older drivers.
+
+Release Version 1.0.0.04
+1. Added command line interface for UpdatorGUI which allows drag
+and drop of .ezm files.
+2. First item in camera list is selected by default.
+
+Release Version 1.0.0.03
+1. Added support for .ezm files.
+
+Release Version 1.0.0.02
+1. More robust version for Windows 2000.
+
+Release Version 1.0.0.01
+1. UI update to respond to cameras being plugged in and unplugged
+2. Required to update Flea and Scorpion to 0.9.x.x firmware versions
+
+Release Version 0.1.0.17
+1. Updated sensorinfo.txt
+
+Release Version 0.1.0.16
+1. Fixed bug where .its and .cal files are not loaded.
+
+Release Version 0.1.0.15
+1. Updated sensorinfo.txt
+
+Release Version 0.1.0.14
+1. Updated sensorinfo.txt
+2. Using library with ability to select raw mode.
+
+Release Version 0.1.0.13
+1. Fixed problem with spaces in directory names.
+
+
+
+
+
+
