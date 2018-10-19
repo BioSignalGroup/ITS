@@ -1,0 +1,31 @@
+[Eagle]
+Version="06 05 00"
+Platform="Windows"
+Serial="7027C56904-LSR-WLM-3CP"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="C:/Users/Henson/Dropbox/Eagle/METER.lbr"
+UsedLibrary="C:/Users/Henson/Dropbox/Eagle/USB-CON.lbr"
+UsedLibrary="C:/Users/Henson/Dropbox/Eagle/mydin.lbr"
+UsedLibrary="C:/Users/Henson/Dropbox/Eagle/lbr/linear.lbr"
+UsedLibrary="C:/Users/Henson/Dropbox/Eagle/lbr/v-reg.lbr"
+UsedLibrary="C:/Users/Henson/Dropbox/Eagle/lbr/pinhead.lbr"
+UsedLibrary="C:/Users/Henson/Dropbox/Eagle/lbr/holes.lbr"
+UsedLibrary="C:/Users/Henson/Dropbox/Eagle/uEEG32A/BSGcon.lbr"
+UsedLibrary="C:/Users/Henson/Dropbox/Eagle/lbr/fiber-optic-siemens.lbr"
+UsedLibrary="C:/Users/Henson/Dropbox/Eagle/lbr/74xx-us.lbr"
+UsedLibrary="C:/Users/Henson/Dropbox/Eagle/lbr/diode.lbr"
+UsedLibrary="C:/Users/Henson/Dropbox/Eagle/lbr/resistor.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="747 371 1679 770"
+State=1
+Number=0
+
+[Desktop]
+Screen="3520 1080"
+Window="Win_1"

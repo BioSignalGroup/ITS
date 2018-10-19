@@ -1,0 +1,2206 @@
+Mon Oct 20 01:09:09 Saved as file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT.MAX
+Mon Oct 20 01:09:09 Saved as file BACKUP1.MAX
+Mon Oct 20 01:09:09 Saved as file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT.MAX
+Mon Oct 20 01:09:11 UserDiv from Layout.INI for AutoECO: 60
+Mon Oct 20 01:09:11 Loaded file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT.MAX
+Mon Oct 20 01:09:11 Loaded file E:\ORCAD\!MY\CONTROL BOX\DINO_SMT.LLB
+Mon Oct 20 01:09:11 Loaded file E:\ORCAD\!MY\GND SWITCH\SPIKE_GEN.LLB
+Mon Oct 20 01:09:11 Loaded file E:\ORCAD\MY_LIB\PROLEN_LIB.LLB
+Mon Oct 20 01:09:11 Loaded file E:\ORCAD\!MY\SPIKE GENERATOR\DIX-SOT23.LLB
+Mon Oct 20 01:09:11 Loaded file E:\ORCAD\!MY\SPIKE GENERATOR\DIX.LLB
+Mon Oct 20 01:09:11 Loaded file E:\ORCAD\!MY\SPIKE GENERATOR\PAD_DINO.LLB
+Mon Oct 20 01:09:11 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BCON100T.llb
+Mon Oct 20 01:09:11 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BCON156T.llb
+Mon Oct 20 01:09:11 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BGA.llb
+Mon Oct 20 01:09:11 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\CLCC.llb
+Mon Oct 20 01:09:11 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DCON050T.llb
+Mon Oct 20 01:09:11 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DCON085T.llb
+Mon Oct 20 01:09:11 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIMM050F.llb
+Mon Oct 20 01:09:11 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIMM050T.llb
+Mon Oct 20 01:09:11 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIN.llb
+Mon Oct 20 01:09:11 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIP100B.llb
+Mon Oct 20 01:09:11 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIP100T.llb
+Mon Oct 20 01:09:11 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DSUBT.llb
+Mon Oct 20 01:09:11 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DSUBT_HD.LLB
+Mon Oct 20 01:09:11 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ECON100T.llb
+Mon Oct 20 01:09:11 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\FBUS.llb
+Mon Oct 20 01:09:11 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ISA.llb
+Mon Oct 20 01:09:11 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\JUMPER.LLB
+Mon Oct 20 01:09:11 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\LAYOUT.llb
+Mon Oct 20 01:09:11 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\LCON100T.llb
+Mon Oct 20 01:09:11 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PC104.llb
+Mon Oct 20 01:09:11 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCI.llb
+Mon Oct 20 01:09:11 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCON100T.llb
+Mon Oct 20 01:09:11 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCON156T.llb
+Mon Oct 20 01:09:11 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PGA.llb
+Mon Oct 20 01:09:11 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PLCC.llb
+Mon Oct 20 01:09:11 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\QUAD.llb
+Mon Oct 20 01:09:11 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\QUADB.llb
+Mon Oct 20 01:09:11 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\RELAY.llb
+Mon Oct 20 01:09:11 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\RF.llb
+Mon Oct 20 01:09:11 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SBUS.llb
+Mon Oct 20 01:09:11 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM050F.llb
+Mon Oct 20 01:09:11 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM050T.llb
+Mon Oct 20 01:09:11 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM100F.llb
+Mon Oct 20 01:09:11 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM100T.llb
+Mon Oct 20 01:09:11 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIP.llb
+Mon Oct 20 01:09:11 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SM.llb
+Mon Oct 20 01:09:12 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SOG.llb
+Mon Oct 20 01:09:12 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SOJ.llb
+Mon Oct 20 01:09:12 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\STIFF.llb
+Mon Oct 20 01:09:12 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TELE.llb
+Mon Oct 20 01:09:12 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_AXIAL.llb
+Mon Oct 20 01:09:12 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_CAP_P.llb
+Mon Oct 20 01:09:12 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_CYLND.llb
+Mon Oct 20 01:09:12 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_DIODE.llb
+Mon Oct 20 01:09:12 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_DISC.llb
+Mon Oct 20 01:09:12 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_RAD.llb
+Mon Oct 20 01:09:12 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TO.llb
+Mon Oct 20 01:09:12 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TRAINING.LLB
+Mon Oct 20 01:09:12 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\VRES.llb
+Mon Oct 20 01:09:12 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\WCON100T.llb
+Mon Oct 20 01:09:12 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\XT.llb
+Mon Oct 20 01:09:12 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ZIGZAG.llb
+Mon Oct 20 01:09:12 Loaded file E:\ORCAD\!MY\CONTROL BOX\DINO_SMT.LLB
+Mon Oct 20 01:09:12 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SM.llb
+Mon Oct 20 01:09:12 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:12 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:12 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:12 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:12 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:12 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:12 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:12 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:12 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:12 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:12 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:12 Loaded file E:\ORCAD\!MY\CONTROL BOX\DINO_SMT.LLB
+Mon Oct 20 01:09:12 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\LCON100T.llb
+Mon Oct 20 01:09:12 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:12 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:12 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:12 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:12 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:12 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:12 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:12 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:12 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:12 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:12 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:12 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:12 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:12 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:12 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:12 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:12 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:12 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:12 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:12 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:12 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:12 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:12 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:12 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:12 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:12 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:12 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:13 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:13 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:13 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:13 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:13 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:13 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:13 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:13 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:13 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:13 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:13 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:13 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:13 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:13 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:13 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:13 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:13 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:13 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:13 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:13 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:13 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:13 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:13 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:13 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:13 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:13 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:13 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:13 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:13 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:13 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:13 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:13 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:13 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:13 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:13 Footprint coords will be rounded to nearest base unit.
+Mon Oct 20 01:09:13 Loaded file E:\ORCAD\!MY\CONTROL BOX\DINO_SMT.LLB
+Mon Oct 20 01:09:13 Loaded file E:\ORCAD\!MY\CONTROL BOX\DINO_SMT.LLB
+Mon Oct 20 01:09:13 Loaded file E:\ORCAD\!MY\CONTROL BOX\DINO_SMT.LLB
+Mon Oct 20 01:09:13 Loaded file E:\ORCAD\!MY\CONTROL BOX\DINO_SMT.LLB
+Mon Oct 20 01:09:13 Saved as file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT.MAX
+Mon Oct 20 01:09:13 Loaded file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT.MAX
+Mon Oct 20 01:10:16 Saved as file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT.MAX
+Mon Oct 20 01:19:28 Saved as file BACKUP1.MAX
+Mon Oct 20 01:29:28 Saved as file BACKUP1.MAX
+Mon Oct 20 01:39:28 Saved as file BACKUP1.MAX
+Thu Oct 30 01:58:43 Saved as file BACKUP1.MAX
+Thu Oct 30 01:58:43 Saved as file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT.MAX
+Thu Oct 30 01:58:48 UserDiv from Layout.INI for AutoECO: 60
+Thu Oct 30 01:58:48 Loaded file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT.MAX
+Thu Oct 30 01:58:48 Loaded file E:\ORCAD\!MY\CONTROL BOX\DINO_SMT.LLB
+Thu Oct 30 01:58:48 Loaded file E:\ORCAD\!MY\GND SWITCH\SPIKE_GEN.LLB
+Thu Oct 30 01:58:48 Loaded file E:\ORCAD\MY_LIB\PROLEN_LIB.LLB
+Thu Oct 30 01:58:48 Loaded file E:\ORCAD\!MY\SPIKE GENERATOR\DIX-SOT23.LLB
+Thu Oct 30 01:58:48 Loaded file E:\ORCAD\!MY\SPIKE GENERATOR\DIX.LLB
+Thu Oct 30 01:58:48 Loaded file E:\ORCAD\!MY\SPIKE GENERATOR\PAD_DINO.LLB
+Thu Oct 30 01:58:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BCON100T.llb
+Thu Oct 30 01:58:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BCON156T.llb
+Thu Oct 30 01:58:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BGA.llb
+Thu Oct 30 01:58:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\CLCC.llb
+Thu Oct 30 01:58:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DCON050T.llb
+Thu Oct 30 01:58:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DCON085T.llb
+Thu Oct 30 01:58:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIMM050F.llb
+Thu Oct 30 01:58:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIMM050T.llb
+Thu Oct 30 01:58:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIN.llb
+Thu Oct 30 01:58:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIP100B.llb
+Thu Oct 30 01:58:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIP100T.llb
+Thu Oct 30 01:58:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DSUBT.llb
+Thu Oct 30 01:58:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DSUBT_HD.LLB
+Thu Oct 30 01:58:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ECON100T.llb
+Thu Oct 30 01:58:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\FBUS.llb
+Thu Oct 30 01:58:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ISA.llb
+Thu Oct 30 01:58:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\JUMPER.LLB
+Thu Oct 30 01:58:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\LAYOUT.llb
+Thu Oct 30 01:58:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\LCON100T.llb
+Thu Oct 30 01:58:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PC104.llb
+Thu Oct 30 01:58:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCI.llb
+Thu Oct 30 01:58:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCON100T.llb
+Thu Oct 30 01:58:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCON156T.llb
+Thu Oct 30 01:58:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PGA.llb
+Thu Oct 30 01:58:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PLCC.llb
+Thu Oct 30 01:58:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\QUAD.llb
+Thu Oct 30 01:58:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\QUADB.llb
+Thu Oct 30 01:58:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\RELAY.llb
+Thu Oct 30 01:58:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\RF.llb
+Thu Oct 30 01:58:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SBUS.llb
+Thu Oct 30 01:58:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM050F.llb
+Thu Oct 30 01:58:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM050T.llb
+Thu Oct 30 01:58:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM100F.llb
+Thu Oct 30 01:58:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM100T.llb
+Thu Oct 30 01:58:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIP.llb
+Thu Oct 30 01:58:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SM.llb
+Thu Oct 30 01:58:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SOG.llb
+Thu Oct 30 01:58:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SOJ.llb
+Thu Oct 30 01:58:49 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\STIFF.llb
+Thu Oct 30 01:58:49 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TELE.llb
+Thu Oct 30 01:58:49 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_AXIAL.llb
+Thu Oct 30 01:58:49 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_CAP_P.llb
+Thu Oct 30 01:58:49 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_CYLND.llb
+Thu Oct 30 01:58:49 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_DIODE.llb
+Thu Oct 30 01:58:49 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_DISC.llb
+Thu Oct 30 01:58:49 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_RAD.llb
+Thu Oct 30 01:58:49 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TO.llb
+Thu Oct 30 01:58:49 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TRAINING.LLB
+Thu Oct 30 01:58:49 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\VRES.llb
+Thu Oct 30 01:58:49 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\WCON100T.llb
+Thu Oct 30 01:58:49 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\XT.llb
+Thu Oct 30 01:58:49 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ZIGZAG.llb
+Thu Oct 30 01:58:49 Saved as file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT.MAX
+Thu Oct 30 01:58:49 Loaded file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT.MAX
+Thu Oct 30 02:12:08 Saved as file BACKUP1.MAX
+Thu Oct 30 02:14:52 Saved as file ~undo.max
+Thu Oct 30 02:17:12 Saved as file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT.MAX
+Thu Oct 30 19:31:23 Loaded file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT.MAX
+Thu Oct 30 19:31:23 Loaded file E:\ORCAD\!MY\CONTROL BOX\DINO_SMT.LLB
+Thu Oct 30 19:31:23 Loaded file E:\ORCAD\!MY\GND SWITCH\SPIKE_GEN.LLB
+Thu Oct 30 19:31:23 Loaded file E:\ORCAD\MY_LIB\PROLEN_LIB.LLB
+Thu Oct 30 19:31:23 Loaded file E:\ORCAD\!MY\SPIKE GENERATOR\DIX-SOT23.LLB
+Thu Oct 30 19:31:23 Loaded file E:\ORCAD\!MY\SPIKE GENERATOR\DIX.LLB
+Thu Oct 30 19:31:23 Loaded file E:\ORCAD\!MY\SPIKE GENERATOR\PAD_DINO.LLB
+Thu Oct 30 19:31:23 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BCON100T.llb
+Thu Oct 30 19:31:23 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BCON156T.llb
+Thu Oct 30 19:31:23 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BGA.llb
+Thu Oct 30 19:31:23 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\CLCC.llb
+Thu Oct 30 19:31:23 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DCON050T.llb
+Thu Oct 30 19:31:23 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DCON085T.llb
+Thu Oct 30 19:31:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIMM050F.llb
+Thu Oct 30 19:31:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIMM050T.llb
+Thu Oct 30 19:31:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIN.llb
+Thu Oct 30 19:31:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIP100B.llb
+Thu Oct 30 19:31:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIP100T.llb
+Thu Oct 30 19:31:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DSUBT.llb
+Thu Oct 30 19:31:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DSUBT_HD.LLB
+Thu Oct 30 19:31:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ECON100T.llb
+Thu Oct 30 19:31:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\FBUS.llb
+Thu Oct 30 19:31:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ISA.llb
+Thu Oct 30 19:31:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\JUMPER.LLB
+Thu Oct 30 19:31:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\LAYOUT.llb
+Thu Oct 30 19:31:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\LCON100T.llb
+Thu Oct 30 19:31:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PC104.llb
+Thu Oct 30 19:31:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCI.llb
+Thu Oct 30 19:31:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCON100T.llb
+Thu Oct 30 19:31:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCON156T.llb
+Thu Oct 30 19:31:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PGA.llb
+Thu Oct 30 19:31:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PLCC.llb
+Thu Oct 30 19:31:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\QUAD.llb
+Thu Oct 30 19:31:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\QUADB.llb
+Thu Oct 30 19:31:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\RELAY.llb
+Thu Oct 30 19:31:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\RF.llb
+Thu Oct 30 19:31:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SBUS.llb
+Thu Oct 30 19:31:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM050F.llb
+Thu Oct 30 19:31:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM050T.llb
+Thu Oct 30 19:31:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM100F.llb
+Thu Oct 30 19:31:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM100T.llb
+Thu Oct 30 19:31:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIP.llb
+Thu Oct 30 19:31:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SM.llb
+Thu Oct 30 19:31:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SOG.llb
+Thu Oct 30 19:31:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SOJ.llb
+Thu Oct 30 19:31:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\STIFF.llb
+Thu Oct 30 19:31:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TELE.llb
+Thu Oct 30 19:31:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_AXIAL.llb
+Thu Oct 30 19:31:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_CAP_P.llb
+Thu Oct 30 19:31:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_CYLND.llb
+Thu Oct 30 19:31:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_DIODE.llb
+Thu Oct 30 19:31:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_DISC.llb
+Thu Oct 30 19:31:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_RAD.llb
+Thu Oct 30 19:31:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TO.llb
+Thu Oct 30 19:31:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TRAINING.LLB
+Thu Oct 30 19:31:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\VRES.llb
+Thu Oct 30 19:31:25 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\WCON100T.llb
+Thu Oct 30 19:31:25 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\XT.llb
+Thu Oct 30 19:31:25 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ZIGZAG.llb
+Thu Oct 30 19:31:31 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SM.llb
+Thu Oct 30 19:31:31 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:31:31 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:31:31 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:31:31 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:31:31 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:31:31 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:31:31 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:31:31 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:31:31 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:31:31 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:31:31 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:31:31 Loaded file E:\ORCAD\!MY\CONTROL BOX\DINO_SMT.LLB
+Thu Oct 30 19:31:38 Saved as file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT2.MAX
+Thu Oct 30 19:32:35 Loaded file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT.MAX
+Thu Oct 30 19:32:35 Loaded file E:\ORCAD\!MY\CONTROL BOX\DINO_SMT.LLB
+Thu Oct 30 19:32:35 Loaded file E:\ORCAD\!MY\GND SWITCH\SPIKE_GEN.LLB
+Thu Oct 30 19:32:35 Loaded file E:\ORCAD\MY_LIB\PROLEN_LIB.LLB
+Thu Oct 30 19:32:35 Loaded file E:\ORCAD\!MY\SPIKE GENERATOR\DIX-SOT23.LLB
+Thu Oct 30 19:32:35 Loaded file E:\ORCAD\!MY\SPIKE GENERATOR\DIX.LLB
+Thu Oct 30 19:32:35 Loaded file E:\ORCAD\!MY\SPIKE GENERATOR\PAD_DINO.LLB
+Thu Oct 30 19:32:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BCON100T.llb
+Thu Oct 30 19:32:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BCON156T.llb
+Thu Oct 30 19:32:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BGA.llb
+Thu Oct 30 19:32:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\CLCC.llb
+Thu Oct 30 19:32:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DCON050T.llb
+Thu Oct 30 19:32:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DCON085T.llb
+Thu Oct 30 19:32:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIMM050F.llb
+Thu Oct 30 19:32:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIMM050T.llb
+Thu Oct 30 19:32:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIN.llb
+Thu Oct 30 19:32:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIP100B.llb
+Thu Oct 30 19:32:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIP100T.llb
+Thu Oct 30 19:32:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DSUBT.llb
+Thu Oct 30 19:32:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DSUBT_HD.LLB
+Thu Oct 30 19:32:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ECON100T.llb
+Thu Oct 30 19:32:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\FBUS.llb
+Thu Oct 30 19:32:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ISA.llb
+Thu Oct 30 19:32:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\JUMPER.LLB
+Thu Oct 30 19:32:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\LAYOUT.llb
+Thu Oct 30 19:32:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\LCON100T.llb
+Thu Oct 30 19:32:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PC104.llb
+Thu Oct 30 19:32:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCI.llb
+Thu Oct 30 19:32:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCON100T.llb
+Thu Oct 30 19:32:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCON156T.llb
+Thu Oct 30 19:32:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PGA.llb
+Thu Oct 30 19:32:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PLCC.llb
+Thu Oct 30 19:32:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\QUAD.llb
+Thu Oct 30 19:32:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\QUADB.llb
+Thu Oct 30 19:32:36 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\RELAY.llb
+Thu Oct 30 19:32:36 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\RF.llb
+Thu Oct 30 19:32:36 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SBUS.llb
+Thu Oct 30 19:32:36 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM050F.llb
+Thu Oct 30 19:32:36 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM050T.llb
+Thu Oct 30 19:32:36 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM100F.llb
+Thu Oct 30 19:32:36 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM100T.llb
+Thu Oct 30 19:32:36 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIP.llb
+Thu Oct 30 19:32:36 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SM.llb
+Thu Oct 30 19:32:36 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SOG.llb
+Thu Oct 30 19:32:36 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SOJ.llb
+Thu Oct 30 19:32:36 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\STIFF.llb
+Thu Oct 30 19:32:36 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TELE.llb
+Thu Oct 30 19:32:36 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_AXIAL.llb
+Thu Oct 30 19:32:36 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_CAP_P.llb
+Thu Oct 30 19:32:36 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_CYLND.llb
+Thu Oct 30 19:32:36 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_DIODE.llb
+Thu Oct 30 19:32:36 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_DISC.llb
+Thu Oct 30 19:32:36 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_RAD.llb
+Thu Oct 30 19:32:36 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TO.llb
+Thu Oct 30 19:32:36 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TRAINING.LLB
+Thu Oct 30 19:32:36 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\VRES.llb
+Thu Oct 30 19:32:36 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\WCON100T.llb
+Thu Oct 30 19:32:36 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\XT.llb
+Thu Oct 30 19:32:36 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ZIGZAG.llb
+Thu Oct 30 19:32:49 Loaded file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT.MAX
+Thu Oct 30 19:32:49 Loaded file E:\ORCAD\!MY\CONTROL BOX\DINO_SMT.LLB
+Thu Oct 30 19:32:49 Loaded file E:\ORCAD\!MY\GND SWITCH\SPIKE_GEN.LLB
+Thu Oct 30 19:32:49 Loaded file E:\ORCAD\MY_LIB\PROLEN_LIB.LLB
+Thu Oct 30 19:32:49 Loaded file E:\ORCAD\!MY\SPIKE GENERATOR\DIX-SOT23.LLB
+Thu Oct 30 19:32:49 Loaded file E:\ORCAD\!MY\SPIKE GENERATOR\DIX.LLB
+Thu Oct 30 19:32:49 Loaded file E:\ORCAD\!MY\SPIKE GENERATOR\PAD_DINO.LLB
+Thu Oct 30 19:32:49 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BCON100T.llb
+Thu Oct 30 19:32:49 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BCON156T.llb
+Thu Oct 30 19:32:49 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BGA.llb
+Thu Oct 30 19:32:49 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\CLCC.llb
+Thu Oct 30 19:32:49 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DCON050T.llb
+Thu Oct 30 19:32:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DCON085T.llb
+Thu Oct 30 19:32:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIMM050F.llb
+Thu Oct 30 19:32:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIMM050T.llb
+Thu Oct 30 19:32:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIN.llb
+Thu Oct 30 19:32:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIP100B.llb
+Thu Oct 30 19:32:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIP100T.llb
+Thu Oct 30 19:32:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DSUBT.llb
+Thu Oct 30 19:32:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DSUBT_HD.LLB
+Thu Oct 30 19:32:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ECON100T.llb
+Thu Oct 30 19:32:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\FBUS.llb
+Thu Oct 30 19:32:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ISA.llb
+Thu Oct 30 19:32:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\JUMPER.LLB
+Thu Oct 30 19:32:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\LAYOUT.llb
+Thu Oct 30 19:32:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\LCON100T.llb
+Thu Oct 30 19:32:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PC104.llb
+Thu Oct 30 19:32:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCI.llb
+Thu Oct 30 19:32:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCON100T.llb
+Thu Oct 30 19:32:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCON156T.llb
+Thu Oct 30 19:32:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PGA.llb
+Thu Oct 30 19:32:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PLCC.llb
+Thu Oct 30 19:32:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\QUAD.llb
+Thu Oct 30 19:32:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\QUADB.llb
+Thu Oct 30 19:32:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\RELAY.llb
+Thu Oct 30 19:32:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\RF.llb
+Thu Oct 30 19:32:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SBUS.llb
+Thu Oct 30 19:32:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM050F.llb
+Thu Oct 30 19:32:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM050T.llb
+Thu Oct 30 19:32:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM100F.llb
+Thu Oct 30 19:32:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM100T.llb
+Thu Oct 30 19:32:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIP.llb
+Thu Oct 30 19:32:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SM.llb
+Thu Oct 30 19:32:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SOG.llb
+Thu Oct 30 19:32:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SOJ.llb
+Thu Oct 30 19:32:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\STIFF.llb
+Thu Oct 30 19:32:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TELE.llb
+Thu Oct 30 19:32:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_AXIAL.llb
+Thu Oct 30 19:32:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_CAP_P.llb
+Thu Oct 30 19:32:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_CYLND.llb
+Thu Oct 30 19:32:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_DIODE.llb
+Thu Oct 30 19:32:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_DISC.llb
+Thu Oct 30 19:32:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_RAD.llb
+Thu Oct 30 19:32:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TO.llb
+Thu Oct 30 19:32:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TRAINING.LLB
+Thu Oct 30 19:32:51 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\VRES.llb
+Thu Oct 30 19:32:51 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\WCON100T.llb
+Thu Oct 30 19:32:51 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\XT.llb
+Thu Oct 30 19:32:51 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ZIGZAG.llb
+Thu Oct 30 19:32:55 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SM.llb
+Thu Oct 30 19:32:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:32:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:32:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:32:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:32:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:32:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:32:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:32:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:32:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:32:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:32:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:32:55 Loaded file E:\ORCAD\!MY\CONTROL BOX\DINO_SMT.LLB
+Thu Oct 30 19:32:59 Saved as file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT2.MAX
+Thu Oct 30 19:34:00 Loaded file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT.MAX
+Thu Oct 30 19:34:00 Loaded file E:\ORCAD\!MY\CONTROL BOX\DINO_SMT.LLB
+Thu Oct 30 19:34:00 Loaded file E:\ORCAD\!MY\GND SWITCH\SPIKE_GEN.LLB
+Thu Oct 30 19:34:00 Loaded file E:\ORCAD\MY_LIB\PROLEN_LIB.LLB
+Thu Oct 30 19:34:00 Loaded file E:\ORCAD\!MY\SPIKE GENERATOR\DIX-SOT23.LLB
+Thu Oct 30 19:34:00 Loaded file E:\ORCAD\!MY\SPIKE GENERATOR\DIX.LLB
+Thu Oct 30 19:34:00 Loaded file E:\ORCAD\!MY\SPIKE GENERATOR\PAD_DINO.LLB
+Thu Oct 30 19:34:00 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BCON100T.llb
+Thu Oct 30 19:34:00 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BCON156T.llb
+Thu Oct 30 19:34:00 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BGA.llb
+Thu Oct 30 19:34:00 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\CLCC.llb
+Thu Oct 30 19:34:00 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DCON050T.llb
+Thu Oct 30 19:34:00 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DCON085T.llb
+Thu Oct 30 19:34:00 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIMM050F.llb
+Thu Oct 30 19:34:00 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIMM050T.llb
+Thu Oct 30 19:34:00 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIN.llb
+Thu Oct 30 19:34:00 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIP100B.llb
+Thu Oct 30 19:34:00 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIP100T.llb
+Thu Oct 30 19:34:00 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DSUBT.llb
+Thu Oct 30 19:34:00 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DSUBT_HD.LLB
+Thu Oct 30 19:34:00 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ECON100T.llb
+Thu Oct 30 19:34:00 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\FBUS.llb
+Thu Oct 30 19:34:00 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ISA.llb
+Thu Oct 30 19:34:00 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\JUMPER.LLB
+Thu Oct 30 19:34:00 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\LAYOUT.llb
+Thu Oct 30 19:34:00 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\LCON100T.llb
+Thu Oct 30 19:34:00 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PC104.llb
+Thu Oct 30 19:34:00 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCI.llb
+Thu Oct 30 19:34:00 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCON100T.llb
+Thu Oct 30 19:34:00 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCON156T.llb
+Thu Oct 30 19:34:00 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PGA.llb
+Thu Oct 30 19:34:00 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PLCC.llb
+Thu Oct 30 19:34:01 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\QUAD.llb
+Thu Oct 30 19:34:01 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\QUADB.llb
+Thu Oct 30 19:34:01 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\RELAY.llb
+Thu Oct 30 19:34:01 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\RF.llb
+Thu Oct 30 19:34:01 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SBUS.llb
+Thu Oct 30 19:34:01 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM050F.llb
+Thu Oct 30 19:34:01 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM050T.llb
+Thu Oct 30 19:34:01 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM100F.llb
+Thu Oct 30 19:34:01 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM100T.llb
+Thu Oct 30 19:34:01 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIP.llb
+Thu Oct 30 19:34:01 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SM.llb
+Thu Oct 30 19:34:01 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SOG.llb
+Thu Oct 30 19:34:01 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SOJ.llb
+Thu Oct 30 19:34:01 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\STIFF.llb
+Thu Oct 30 19:34:01 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TELE.llb
+Thu Oct 30 19:34:01 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_AXIAL.llb
+Thu Oct 30 19:34:01 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_CAP_P.llb
+Thu Oct 30 19:34:01 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_CYLND.llb
+Thu Oct 30 19:34:01 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_DIODE.llb
+Thu Oct 30 19:34:01 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_DISC.llb
+Thu Oct 30 19:34:01 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_RAD.llb
+Thu Oct 30 19:34:01 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TO.llb
+Thu Oct 30 19:34:01 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TRAINING.LLB
+Thu Oct 30 19:34:01 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\VRES.llb
+Thu Oct 30 19:34:01 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\WCON100T.llb
+Thu Oct 30 19:34:01 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\XT.llb
+Thu Oct 30 19:34:01 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ZIGZAG.llb
+Thu Oct 30 19:34:04 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SM.llb
+Thu Oct 30 19:34:04 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:34:04 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:34:04 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:34:04 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:34:04 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:34:04 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:34:04 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:34:04 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:34:05 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:34:05 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:34:05 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:34:05 Loaded file E:\ORCAD\!MY\CONTROL BOX\DINO_SMT.LLB
+Thu Oct 30 19:34:10 Saved as file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT2.MAX
+Thu Oct 30 19:36:47 Loaded file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT.MAX
+Thu Oct 30 19:36:47 Loaded file E:\ORCAD\!MY\CONTROL BOX\DINO_SMT.LLB
+Thu Oct 30 19:36:47 Loaded file E:\ORCAD\!MY\GND SWITCH\SPIKE_GEN.LLB
+Thu Oct 30 19:36:47 Loaded file E:\ORCAD\MY_LIB\PROLEN_LIB.LLB
+Thu Oct 30 19:36:47 Loaded file E:\ORCAD\!MY\SPIKE GENERATOR\DIX-SOT23.LLB
+Thu Oct 30 19:36:47 Loaded file E:\ORCAD\!MY\SPIKE GENERATOR\DIX.LLB
+Thu Oct 30 19:36:47 Loaded file E:\ORCAD\!MY\SPIKE GENERATOR\PAD_DINO.LLB
+Thu Oct 30 19:36:47 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BCON100T.llb
+Thu Oct 30 19:36:47 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BCON156T.llb
+Thu Oct 30 19:36:47 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BGA.llb
+Thu Oct 30 19:36:47 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\CLCC.llb
+Thu Oct 30 19:36:47 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DCON050T.llb
+Thu Oct 30 19:36:47 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DCON085T.llb
+Thu Oct 30 19:36:47 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIMM050F.llb
+Thu Oct 30 19:36:47 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIMM050T.llb
+Thu Oct 30 19:36:47 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIN.llb
+Thu Oct 30 19:36:47 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIP100B.llb
+Thu Oct 30 19:36:47 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIP100T.llb
+Thu Oct 30 19:36:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DSUBT.llb
+Thu Oct 30 19:36:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DSUBT_HD.LLB
+Thu Oct 30 19:36:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ECON100T.llb
+Thu Oct 30 19:36:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\FBUS.llb
+Thu Oct 30 19:36:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ISA.llb
+Thu Oct 30 19:36:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\JUMPER.LLB
+Thu Oct 30 19:36:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\LAYOUT.llb
+Thu Oct 30 19:36:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\LCON100T.llb
+Thu Oct 30 19:36:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PC104.llb
+Thu Oct 30 19:36:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCI.llb
+Thu Oct 30 19:36:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCON100T.llb
+Thu Oct 30 19:36:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCON156T.llb
+Thu Oct 30 19:36:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PGA.llb
+Thu Oct 30 19:36:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PLCC.llb
+Thu Oct 30 19:36:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\QUAD.llb
+Thu Oct 30 19:36:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\QUADB.llb
+Thu Oct 30 19:36:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\RELAY.llb
+Thu Oct 30 19:36:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\RF.llb
+Thu Oct 30 19:36:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SBUS.llb
+Thu Oct 30 19:36:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM050F.llb
+Thu Oct 30 19:36:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM050T.llb
+Thu Oct 30 19:36:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM100F.llb
+Thu Oct 30 19:36:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM100T.llb
+Thu Oct 30 19:36:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIP.llb
+Thu Oct 30 19:36:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SM.llb
+Thu Oct 30 19:36:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SOG.llb
+Thu Oct 30 19:36:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SOJ.llb
+Thu Oct 30 19:36:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\STIFF.llb
+Thu Oct 30 19:36:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TELE.llb
+Thu Oct 30 19:36:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_AXIAL.llb
+Thu Oct 30 19:36:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_CAP_P.llb
+Thu Oct 30 19:36:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_CYLND.llb
+Thu Oct 30 19:36:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_DIODE.llb
+Thu Oct 30 19:36:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_DISC.llb
+Thu Oct 30 19:36:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_RAD.llb
+Thu Oct 30 19:36:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TO.llb
+Thu Oct 30 19:36:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TRAINING.LLB
+Thu Oct 30 19:36:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\VRES.llb
+Thu Oct 30 19:36:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\WCON100T.llb
+Thu Oct 30 19:36:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\XT.llb
+Thu Oct 30 19:36:48 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ZIGZAG.llb
+Thu Oct 30 19:36:52 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SM.llb
+Thu Oct 30 19:36:52 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:36:52 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:36:52 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:36:52 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:36:52 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:36:52 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:36:52 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:36:52 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:36:52 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:36:52 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:36:52 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:36:52 Loaded file E:\ORCAD\!MY\CONTROL BOX\DINO_SMT.LLB
+Thu Oct 30 19:37:01 Loaded file d:\cadence\PSD_14\Layout_Eng_Ed\data\template.imp
+Thu Oct 30 19:37:01 Loaded file d:\cadence\PSD_14\Layout_Eng_Ed\data\template.imp
+Thu Oct 30 19:37:03 Loaded file E:\ORCAD\!MY\CONTROL BOX\DINO_SMT.LLB
+Thu Oct 30 19:37:04 Loaded file d:\cadence\PSD_14\Layout_Eng_Ed\data\template.imp
+Thu Oct 30 19:37:04 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:37:04 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:37:04 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:37:04 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:37:04 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:37:04 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:37:04 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:37:04 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:38:06 Loaded file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT.MAX
+Thu Oct 30 19:38:07 Loaded file E:\ORCAD\!MY\CONTROL BOX\DINO_SMT.LLB
+Thu Oct 30 19:38:07 Loaded file E:\ORCAD\!MY\GND SWITCH\SPIKE_GEN.LLB
+Thu Oct 30 19:38:07 Loaded file E:\ORCAD\MY_LIB\PROLEN_LIB.LLB
+Thu Oct 30 19:38:07 Loaded file E:\ORCAD\!MY\SPIKE GENERATOR\DIX-SOT23.LLB
+Thu Oct 30 19:38:07 Loaded file E:\ORCAD\!MY\SPIKE GENERATOR\DIX.LLB
+Thu Oct 30 19:38:07 Loaded file E:\ORCAD\!MY\SPIKE GENERATOR\PAD_DINO.LLB
+Thu Oct 30 19:38:07 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BCON100T.llb
+Thu Oct 30 19:38:07 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BCON156T.llb
+Thu Oct 30 19:38:07 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BGA.llb
+Thu Oct 30 19:38:07 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\CLCC.llb
+Thu Oct 30 19:38:07 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DCON050T.llb
+Thu Oct 30 19:38:07 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DCON085T.llb
+Thu Oct 30 19:38:07 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIMM050F.llb
+Thu Oct 30 19:38:07 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIMM050T.llb
+Thu Oct 30 19:38:07 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIN.llb
+Thu Oct 30 19:38:07 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIP100B.llb
+Thu Oct 30 19:38:07 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIP100T.llb
+Thu Oct 30 19:38:07 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DSUBT.llb
+Thu Oct 30 19:38:07 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DSUBT_HD.LLB
+Thu Oct 30 19:38:07 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ECON100T.llb
+Thu Oct 30 19:38:07 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\FBUS.llb
+Thu Oct 30 19:38:07 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ISA.llb
+Thu Oct 30 19:38:07 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\JUMPER.LLB
+Thu Oct 30 19:38:07 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\LAYOUT.llb
+Thu Oct 30 19:38:07 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\LCON100T.llb
+Thu Oct 30 19:38:07 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PC104.llb
+Thu Oct 30 19:38:07 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCI.llb
+Thu Oct 30 19:38:07 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCON100T.llb
+Thu Oct 30 19:38:07 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCON156T.llb
+Thu Oct 30 19:38:07 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PGA.llb
+Thu Oct 30 19:38:07 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PLCC.llb
+Thu Oct 30 19:38:07 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\QUAD.llb
+Thu Oct 30 19:38:07 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\QUADB.llb
+Thu Oct 30 19:38:07 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\RELAY.llb
+Thu Oct 30 19:38:07 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\RF.llb
+Thu Oct 30 19:38:07 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SBUS.llb
+Thu Oct 30 19:38:07 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM050F.llb
+Thu Oct 30 19:38:07 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM050T.llb
+Thu Oct 30 19:38:07 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM100F.llb
+Thu Oct 30 19:38:07 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM100T.llb
+Thu Oct 30 19:38:07 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIP.llb
+Thu Oct 30 19:38:07 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SM.llb
+Thu Oct 30 19:38:08 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SOG.llb
+Thu Oct 30 19:38:08 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SOJ.llb
+Thu Oct 30 19:38:08 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\STIFF.llb
+Thu Oct 30 19:38:08 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TELE.llb
+Thu Oct 30 19:38:08 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_AXIAL.llb
+Thu Oct 30 19:38:08 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_CAP_P.llb
+Thu Oct 30 19:38:08 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_CYLND.llb
+Thu Oct 30 19:38:08 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_DIODE.llb
+Thu Oct 30 19:38:08 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_DISC.llb
+Thu Oct 30 19:38:08 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_RAD.llb
+Thu Oct 30 19:38:08 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TO.llb
+Thu Oct 30 19:38:08 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TRAINING.LLB
+Thu Oct 30 19:38:08 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\VRES.llb
+Thu Oct 30 19:38:08 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\WCON100T.llb
+Thu Oct 30 19:38:08 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\XT.llb
+Thu Oct 30 19:38:08 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ZIGZAG.llb
+Thu Oct 30 19:38:11 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SM.llb
+Thu Oct 30 19:38:11 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:38:11 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:38:11 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:38:11 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:38:11 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:38:11 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:38:11 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:38:11 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:38:11 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:38:11 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:38:11 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:38:11 Loaded file E:\ORCAD\!MY\CONTROL BOX\DINO_SMT.LLB
+Thu Oct 30 19:38:11 Loaded file E:\ORCAD\!MY\CONTROL BOX\DINO_SMT.LLB
+Thu Oct 30 19:38:17 Saved as file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT2.MAX
+Thu Oct 30 19:38:49 Loaded file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT.MAX
+Thu Oct 30 19:38:49 Loaded file E:\ORCAD\!MY\CONTROL BOX\DINO_SMT.LLB
+Thu Oct 30 19:38:49 Loaded file E:\ORCAD\!MY\GND SWITCH\SPIKE_GEN.LLB
+Thu Oct 30 19:38:49 Loaded file E:\ORCAD\MY_LIB\PROLEN_LIB.LLB
+Thu Oct 30 19:38:49 Loaded file E:\ORCAD\!MY\SPIKE GENERATOR\DIX-SOT23.LLB
+Thu Oct 30 19:38:49 Loaded file E:\ORCAD\!MY\SPIKE GENERATOR\DIX.LLB
+Thu Oct 30 19:38:50 Loaded file E:\ORCAD\!MY\SPIKE GENERATOR\PAD_DINO.LLB
+Thu Oct 30 19:38:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BCON100T.llb
+Thu Oct 30 19:38:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BCON156T.llb
+Thu Oct 30 19:38:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BGA.llb
+Thu Oct 30 19:38:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\CLCC.llb
+Thu Oct 30 19:38:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DCON050T.llb
+Thu Oct 30 19:38:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DCON085T.llb
+Thu Oct 30 19:38:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIMM050F.llb
+Thu Oct 30 19:38:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIMM050T.llb
+Thu Oct 30 19:38:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIN.llb
+Thu Oct 30 19:38:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIP100B.llb
+Thu Oct 30 19:38:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIP100T.llb
+Thu Oct 30 19:38:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DSUBT.llb
+Thu Oct 30 19:38:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DSUBT_HD.LLB
+Thu Oct 30 19:38:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ECON100T.llb
+Thu Oct 30 19:38:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\FBUS.llb
+Thu Oct 30 19:38:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ISA.llb
+Thu Oct 30 19:38:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\JUMPER.LLB
+Thu Oct 30 19:38:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\LAYOUT.llb
+Thu Oct 30 19:38:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\LCON100T.llb
+Thu Oct 30 19:38:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PC104.llb
+Thu Oct 30 19:38:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCI.llb
+Thu Oct 30 19:38:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCON100T.llb
+Thu Oct 30 19:38:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCON156T.llb
+Thu Oct 30 19:38:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PGA.llb
+Thu Oct 30 19:38:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PLCC.llb
+Thu Oct 30 19:38:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\QUAD.llb
+Thu Oct 30 19:38:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\QUADB.llb
+Thu Oct 30 19:38:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\RELAY.llb
+Thu Oct 30 19:38:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\RF.llb
+Thu Oct 30 19:38:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SBUS.llb
+Thu Oct 30 19:38:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM050F.llb
+Thu Oct 30 19:38:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM050T.llb
+Thu Oct 30 19:38:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM100F.llb
+Thu Oct 30 19:38:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM100T.llb
+Thu Oct 30 19:38:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIP.llb
+Thu Oct 30 19:38:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SM.llb
+Thu Oct 30 19:38:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SOG.llb
+Thu Oct 30 19:38:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SOJ.llb
+Thu Oct 30 19:38:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\STIFF.llb
+Thu Oct 30 19:38:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TELE.llb
+Thu Oct 30 19:38:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_AXIAL.llb
+Thu Oct 30 19:38:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_CAP_P.llb
+Thu Oct 30 19:38:50 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_CYLND.llb
+Thu Oct 30 19:38:51 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_DIODE.llb
+Thu Oct 30 19:38:51 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_DISC.llb
+Thu Oct 30 19:38:51 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_RAD.llb
+Thu Oct 30 19:38:51 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TO.llb
+Thu Oct 30 19:38:51 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TRAINING.LLB
+Thu Oct 30 19:38:51 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\VRES.llb
+Thu Oct 30 19:38:51 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\WCON100T.llb
+Thu Oct 30 19:38:51 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\XT.llb
+Thu Oct 30 19:38:51 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ZIGZAG.llb
+Thu Oct 30 19:38:54 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SM.llb
+Thu Oct 30 19:38:54 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:38:54 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:38:54 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:38:54 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:38:54 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:38:54 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:38:54 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:38:54 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:38:54 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:38:54 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:38:54 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:38:54 Loaded file E:\ORCAD\!MY\CONTROL BOX\DINO_SMT.LLB
+Thu Oct 30 19:38:54 Loaded file E:\ORCAD\!MY\CONTROL BOX\DINO_SMT.LLB
+Thu Oct 30 19:38:58 Saved as file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT2.MAX
+Thu Oct 30 19:41:15 Loaded file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT.MAX
+Thu Oct 30 19:41:15 Loaded file E:\ORCAD\!MY\CONTROL BOX\DINO_SMT.LLB
+Thu Oct 30 19:41:15 Loaded file E:\ORCAD\!MY\GND SWITCH\SPIKE_GEN.LLB
+Thu Oct 30 19:41:15 Loaded file E:\ORCAD\MY_LIB\PROLEN_LIB.LLB
+Thu Oct 30 19:41:15 Loaded file E:\ORCAD\!MY\SPIKE GENERATOR\DIX-SOT23.LLB
+Thu Oct 30 19:41:15 Loaded file E:\ORCAD\!MY\SPIKE GENERATOR\DIX.LLB
+Thu Oct 30 19:41:15 Loaded file E:\ORCAD\!MY\SPIKE GENERATOR\PAD_DINO.LLB
+Thu Oct 30 19:41:15 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BCON100T.llb
+Thu Oct 30 19:41:15 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BCON156T.llb
+Thu Oct 30 19:41:15 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BGA.llb
+Thu Oct 30 19:41:15 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\CLCC.llb
+Thu Oct 30 19:41:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DCON050T.llb
+Thu Oct 30 19:41:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DCON085T.llb
+Thu Oct 30 19:41:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIMM050F.llb
+Thu Oct 30 19:41:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIMM050T.llb
+Thu Oct 30 19:41:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIN.llb
+Thu Oct 30 19:41:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIP100B.llb
+Thu Oct 30 19:41:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIP100T.llb
+Thu Oct 30 19:41:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DSUBT.llb
+Thu Oct 30 19:41:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DSUBT_HD.LLB
+Thu Oct 30 19:41:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ECON100T.llb
+Thu Oct 30 19:41:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\FBUS.llb
+Thu Oct 30 19:41:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ISA.llb
+Thu Oct 30 19:41:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\JUMPER.LLB
+Thu Oct 30 19:41:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\LAYOUT.llb
+Thu Oct 30 19:41:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\LCON100T.llb
+Thu Oct 30 19:41:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PC104.llb
+Thu Oct 30 19:41:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCI.llb
+Thu Oct 30 19:41:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCON100T.llb
+Thu Oct 30 19:41:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCON156T.llb
+Thu Oct 30 19:41:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PGA.llb
+Thu Oct 30 19:41:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PLCC.llb
+Thu Oct 30 19:41:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\QUAD.llb
+Thu Oct 30 19:41:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\QUADB.llb
+Thu Oct 30 19:41:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\RELAY.llb
+Thu Oct 30 19:41:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\RF.llb
+Thu Oct 30 19:41:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SBUS.llb
+Thu Oct 30 19:41:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM050F.llb
+Thu Oct 30 19:41:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM050T.llb
+Thu Oct 30 19:41:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM100F.llb
+Thu Oct 30 19:41:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM100T.llb
+Thu Oct 30 19:41:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIP.llb
+Thu Oct 30 19:41:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SM.llb
+Thu Oct 30 19:41:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SOG.llb
+Thu Oct 30 19:41:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SOJ.llb
+Thu Oct 30 19:41:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\STIFF.llb
+Thu Oct 30 19:41:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TELE.llb
+Thu Oct 30 19:41:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_AXIAL.llb
+Thu Oct 30 19:41:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_CAP_P.llb
+Thu Oct 30 19:41:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_CYLND.llb
+Thu Oct 30 19:41:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_DIODE.llb
+Thu Oct 30 19:41:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_DISC.llb
+Thu Oct 30 19:41:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_RAD.llb
+Thu Oct 30 19:41:17 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TO.llb
+Thu Oct 30 19:41:17 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TRAINING.LLB
+Thu Oct 30 19:41:17 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\VRES.llb
+Thu Oct 30 19:41:17 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\WCON100T.llb
+Thu Oct 30 19:41:17 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\XT.llb
+Thu Oct 30 19:41:17 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ZIGZAG.llb
+Thu Oct 30 19:41:20 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SM.llb
+Thu Oct 30 19:41:20 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:41:20 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:41:20 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:41:20 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:41:20 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:41:20 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:41:20 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:41:20 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:41:20 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:41:20 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:41:20 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:41:20 Loaded file E:\ORCAD\!MY\CONTROL BOX\DINO_SMT.LLB
+Thu Oct 30 19:41:21 Loaded file E:\ORCAD\!MY\CONTROL BOX\DINO_SMT.LLB
+Thu Oct 30 19:41:25 Saved as file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT2.MAX
+Thu Oct 30 19:42:52 Loaded file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT.MAX
+Thu Oct 30 19:42:52 Loaded file E:\ORCAD\!MY\CONTROL BOX\DINO_SMT.LLB
+Thu Oct 30 19:42:52 Loaded file E:\ORCAD\!MY\GND SWITCH\SPIKE_GEN.LLB
+Thu Oct 30 19:42:52 Loaded file E:\ORCAD\MY_LIB\PROLEN_LIB.LLB
+Thu Oct 30 19:42:52 Loaded file E:\ORCAD\!MY\SPIKE GENERATOR\DIX-SOT23.LLB
+Thu Oct 30 19:42:52 Loaded file E:\ORCAD\!MY\SPIKE GENERATOR\DIX.LLB
+Thu Oct 30 19:42:52 Loaded file E:\ORCAD\!MY\SPIKE GENERATOR\PAD_DINO.LLB
+Thu Oct 30 19:42:52 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BCON100T.llb
+Thu Oct 30 19:42:52 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BCON156T.llb
+Thu Oct 30 19:42:52 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BGA.llb
+Thu Oct 30 19:42:52 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\CLCC.llb
+Thu Oct 30 19:42:52 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DCON050T.llb
+Thu Oct 30 19:42:52 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DCON085T.llb
+Thu Oct 30 19:42:52 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIMM050F.llb
+Thu Oct 30 19:42:52 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIMM050T.llb
+Thu Oct 30 19:42:52 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIN.llb
+Thu Oct 30 19:42:52 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIP100B.llb
+Thu Oct 30 19:42:52 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIP100T.llb
+Thu Oct 30 19:42:52 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DSUBT.llb
+Thu Oct 30 19:42:52 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DSUBT_HD.LLB
+Thu Oct 30 19:42:52 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ECON100T.llb
+Thu Oct 30 19:42:52 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\FBUS.llb
+Thu Oct 30 19:42:52 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ISA.llb
+Thu Oct 30 19:42:52 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\JUMPER.LLB
+Thu Oct 30 19:42:52 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\LAYOUT.llb
+Thu Oct 30 19:42:52 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\LCON100T.llb
+Thu Oct 30 19:42:52 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PC104.llb
+Thu Oct 30 19:42:52 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCI.llb
+Thu Oct 30 19:42:52 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCON100T.llb
+Thu Oct 30 19:42:52 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCON156T.llb
+Thu Oct 30 19:42:52 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PGA.llb
+Thu Oct 30 19:42:53 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PLCC.llb
+Thu Oct 30 19:42:53 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\QUAD.llb
+Thu Oct 30 19:42:53 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\QUADB.llb
+Thu Oct 30 19:42:53 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\RELAY.llb
+Thu Oct 30 19:42:53 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\RF.llb
+Thu Oct 30 19:42:53 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SBUS.llb
+Thu Oct 30 19:42:53 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM050F.llb
+Thu Oct 30 19:42:53 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM050T.llb
+Thu Oct 30 19:42:53 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM100F.llb
+Thu Oct 30 19:42:53 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM100T.llb
+Thu Oct 30 19:42:53 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIP.llb
+Thu Oct 30 19:42:53 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SM.llb
+Thu Oct 30 19:42:53 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SOG.llb
+Thu Oct 30 19:42:53 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SOJ.llb
+Thu Oct 30 19:42:53 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\STIFF.llb
+Thu Oct 30 19:42:53 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TELE.llb
+Thu Oct 30 19:42:53 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_AXIAL.llb
+Thu Oct 30 19:42:53 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_CAP_P.llb
+Thu Oct 30 19:42:53 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_CYLND.llb
+Thu Oct 30 19:42:53 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_DIODE.llb
+Thu Oct 30 19:42:53 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_DISC.llb
+Thu Oct 30 19:42:53 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_RAD.llb
+Thu Oct 30 19:42:53 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TO.llb
+Thu Oct 30 19:42:53 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TRAINING.LLB
+Thu Oct 30 19:42:53 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\VRES.llb
+Thu Oct 30 19:42:53 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\WCON100T.llb
+Thu Oct 30 19:42:53 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\XT.llb
+Thu Oct 30 19:42:53 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ZIGZAG.llb
+Thu Oct 30 19:42:57 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SM.llb
+Thu Oct 30 19:42:57 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:42:57 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:42:57 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:42:57 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:42:57 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:42:57 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:42:57 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:42:57 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:42:57 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:42:57 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:42:57 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:42:57 Loaded file E:\ORCAD\!MY\CONTROL BOX\DINO_SMT.LLB
+Thu Oct 30 19:42:57 Loaded file E:\ORCAD\!MY\CONTROL BOX\DINO_SMT.LLB
+Thu Oct 30 19:43:01 Saved as file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT2.MAX
+Thu Oct 30 19:43:29 Loaded file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT.MAX
+Thu Oct 30 19:43:29 Loaded file E:\ORCAD\!MY\CONTROL BOX\DINO_SMT.LLB
+Thu Oct 30 19:43:29 Loaded file E:\ORCAD\!MY\GND SWITCH\SPIKE_GEN.LLB
+Thu Oct 30 19:43:29 Loaded file E:\ORCAD\MY_LIB\PROLEN_LIB.LLB
+Thu Oct 30 19:43:30 Loaded file E:\ORCAD\!MY\SPIKE GENERATOR\DIX-SOT23.LLB
+Thu Oct 30 19:43:30 Loaded file E:\ORCAD\!MY\SPIKE GENERATOR\DIX.LLB
+Thu Oct 30 19:43:30 Loaded file E:\ORCAD\!MY\SPIKE GENERATOR\PAD_DINO.LLB
+Thu Oct 30 19:43:30 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BCON100T.llb
+Thu Oct 30 19:43:30 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BCON156T.llb
+Thu Oct 30 19:43:30 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BGA.llb
+Thu Oct 30 19:43:30 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\CLCC.llb
+Thu Oct 30 19:43:30 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DCON050T.llb
+Thu Oct 30 19:43:30 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DCON085T.llb
+Thu Oct 30 19:43:30 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIMM050F.llb
+Thu Oct 30 19:43:30 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIMM050T.llb
+Thu Oct 30 19:43:30 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIN.llb
+Thu Oct 30 19:43:30 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIP100B.llb
+Thu Oct 30 19:43:30 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIP100T.llb
+Thu Oct 30 19:43:30 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DSUBT.llb
+Thu Oct 30 19:43:30 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DSUBT_HD.LLB
+Thu Oct 30 19:43:30 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ECON100T.llb
+Thu Oct 30 19:43:30 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\FBUS.llb
+Thu Oct 30 19:43:30 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ISA.llb
+Thu Oct 30 19:43:30 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\JUMPER.LLB
+Thu Oct 30 19:43:30 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\LAYOUT.llb
+Thu Oct 30 19:43:30 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\LCON100T.llb
+Thu Oct 30 19:43:30 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PC104.llb
+Thu Oct 30 19:43:30 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCI.llb
+Thu Oct 30 19:43:30 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCON100T.llb
+Thu Oct 30 19:43:30 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCON156T.llb
+Thu Oct 30 19:43:30 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PGA.llb
+Thu Oct 30 19:43:30 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PLCC.llb
+Thu Oct 30 19:43:30 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\QUAD.llb
+Thu Oct 30 19:43:30 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\QUADB.llb
+Thu Oct 30 19:43:30 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\RELAY.llb
+Thu Oct 30 19:43:30 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\RF.llb
+Thu Oct 30 19:43:30 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SBUS.llb
+Thu Oct 30 19:43:30 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM050F.llb
+Thu Oct 30 19:43:30 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM050T.llb
+Thu Oct 30 19:43:30 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM100F.llb
+Thu Oct 30 19:43:30 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM100T.llb
+Thu Oct 30 19:43:30 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIP.llb
+Thu Oct 30 19:43:30 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SM.llb
+Thu Oct 30 19:43:30 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SOG.llb
+Thu Oct 30 19:43:30 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SOJ.llb
+Thu Oct 30 19:43:30 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\STIFF.llb
+Thu Oct 30 19:43:31 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TELE.llb
+Thu Oct 30 19:43:31 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_AXIAL.llb
+Thu Oct 30 19:43:31 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_CAP_P.llb
+Thu Oct 30 19:43:31 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_CYLND.llb
+Thu Oct 30 19:43:31 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_DIODE.llb
+Thu Oct 30 19:43:31 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_DISC.llb
+Thu Oct 30 19:43:31 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_RAD.llb
+Thu Oct 30 19:43:31 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TO.llb
+Thu Oct 30 19:43:31 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TRAINING.LLB
+Thu Oct 30 19:43:31 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\VRES.llb
+Thu Oct 30 19:43:31 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\WCON100T.llb
+Thu Oct 30 19:43:31 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\XT.llb
+Thu Oct 30 19:43:31 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ZIGZAG.llb
+Thu Oct 30 19:43:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SM.llb
+Thu Oct 30 19:43:35 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:43:35 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:43:35 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:43:35 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:43:35 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:43:35 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:43:35 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:43:35 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:43:35 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:43:35 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:43:35 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:43:35 Loaded file E:\ORCAD\!MY\CONTROL BOX\DINO_SMT.LLB
+Thu Oct 30 19:43:35 Loaded file E:\ORCAD\!MY\CONTROL BOX\DINO_SMT.LLB
+Thu Oct 30 19:43:41 Saved as file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT2.MAX
+Thu Oct 30 19:45:13 Loaded file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT.MAX
+Thu Oct 30 19:45:13 Loaded file E:\ORCAD\!MY\CONTROL BOX\DINO_SMT.LLB
+Thu Oct 30 19:45:13 Loaded file E:\ORCAD\!MY\GND SWITCH\SPIKE_GEN.LLB
+Thu Oct 30 19:45:13 Loaded file E:\ORCAD\MY_LIB\PROLEN_LIB.LLB
+Thu Oct 30 19:45:13 Loaded file E:\ORCAD\!MY\SPIKE GENERATOR\DIX-SOT23.LLB
+Thu Oct 30 19:45:13 Loaded file E:\ORCAD\!MY\SPIKE GENERATOR\DIX.LLB
+Thu Oct 30 19:45:13 Loaded file E:\ORCAD\!MY\SPIKE GENERATOR\PAD_DINO.LLB
+Thu Oct 30 19:45:13 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BCON100T.llb
+Thu Oct 30 19:45:13 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BCON156T.llb
+Thu Oct 30 19:45:13 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BGA.llb
+Thu Oct 30 19:45:13 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\CLCC.llb
+Thu Oct 30 19:45:13 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DCON050T.llb
+Thu Oct 30 19:45:13 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DCON085T.llb
+Thu Oct 30 19:45:13 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIMM050F.llb
+Thu Oct 30 19:45:13 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIMM050T.llb
+Thu Oct 30 19:45:13 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIN.llb
+Thu Oct 30 19:45:13 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIP100B.llb
+Thu Oct 30 19:45:13 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIP100T.llb
+Thu Oct 30 19:45:13 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DSUBT.llb
+Thu Oct 30 19:45:13 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DSUBT_HD.LLB
+Thu Oct 30 19:45:13 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ECON100T.llb
+Thu Oct 30 19:45:13 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\FBUS.llb
+Thu Oct 30 19:45:13 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ISA.llb
+Thu Oct 30 19:45:13 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\JUMPER.LLB
+Thu Oct 30 19:45:13 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\LAYOUT.llb
+Thu Oct 30 19:45:13 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\LCON100T.llb
+Thu Oct 30 19:45:13 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PC104.llb
+Thu Oct 30 19:45:13 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCI.llb
+Thu Oct 30 19:45:13 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCON100T.llb
+Thu Oct 30 19:45:13 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCON156T.llb
+Thu Oct 30 19:45:13 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PGA.llb
+Thu Oct 30 19:45:13 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PLCC.llb
+Thu Oct 30 19:45:14 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\QUAD.llb
+Thu Oct 30 19:45:14 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\QUADB.llb
+Thu Oct 30 19:45:14 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\RELAY.llb
+Thu Oct 30 19:45:14 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\RF.llb
+Thu Oct 30 19:45:14 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SBUS.llb
+Thu Oct 30 19:45:14 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM050F.llb
+Thu Oct 30 19:45:14 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM050T.llb
+Thu Oct 30 19:45:14 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM100F.llb
+Thu Oct 30 19:45:14 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM100T.llb
+Thu Oct 30 19:45:14 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIP.llb
+Thu Oct 30 19:45:14 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SM.llb
+Thu Oct 30 19:45:14 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SOG.llb
+Thu Oct 30 19:45:14 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SOJ.llb
+Thu Oct 30 19:45:14 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\STIFF.llb
+Thu Oct 30 19:45:14 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TELE.llb
+Thu Oct 30 19:45:14 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_AXIAL.llb
+Thu Oct 30 19:45:14 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_CAP_P.llb
+Thu Oct 30 19:45:14 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_CYLND.llb
+Thu Oct 30 19:45:14 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_DIODE.llb
+Thu Oct 30 19:45:14 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_DISC.llb
+Thu Oct 30 19:45:14 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_RAD.llb
+Thu Oct 30 19:45:14 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TO.llb
+Thu Oct 30 19:45:14 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TRAINING.LLB
+Thu Oct 30 19:45:14 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\VRES.llb
+Thu Oct 30 19:45:14 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\WCON100T.llb
+Thu Oct 30 19:45:14 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\XT.llb
+Thu Oct 30 19:45:14 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ZIGZAG.llb
+Thu Oct 30 19:45:17 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SM.llb
+Thu Oct 30 19:45:17 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:45:17 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:45:17 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:45:17 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:45:17 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:45:17 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:45:17 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:45:17 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:45:17 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:45:17 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:45:17 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 19:45:17 Loaded file E:\ORCAD\!MY\CONTROL BOX\DINO_SMT.LLB
+Thu Oct 30 19:45:17 Loaded file E:\ORCAD\!MY\CONTROL BOX\DINO_SMT.LLB
+Thu Oct 30 19:45:21 Saved as file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT2.MAX
+Thu Oct 30 19:56:25 Saved as file BACKUP1.MAX
+Thu Oct 30 20:06:25 Saved as file BACKUP1.MAX
+Thu Oct 30 20:16:25 Saved as file BACKUP1.MAX
+Thu Oct 30 20:26:25 Saved as file BACKUP1.MAX
+Thu Oct 30 20:36:25 Saved as file BACKUP1.MAX
+Thu Oct 30 20:46:25 Saved as file BACKUP1.MAX
+Thu Oct 30 20:56:25 Saved as file BACKUP1.MAX
+Thu Oct 30 21:06:26 Saved as file BACKUP1.MAX
+Thu Oct 30 21:16:26 Saved as file BACKUP1.MAX
+Thu Oct 30 21:26:26 Saved as file BACKUP1.MAX
+Thu Oct 30 21:36:26 Saved as file BACKUP1.MAX
+Thu Oct 30 21:46:26 Saved as file BACKUP1.MAX
+Thu Oct 30 21:56:26 Saved as file BACKUP1.MAX
+Thu Oct 30 22:06:26 Saved as file BACKUP1.MAX
+Thu Oct 30 22:16:26 Saved as file BACKUP1.MAX
+Thu Oct 30 22:26:26 Saved as file BACKUP1.MAX
+Thu Oct 30 22:36:26 Saved as file BACKUP1.MAX
+Thu Oct 30 22:49:56 Saved as file BACKUP1.MAX
+Thu Oct 30 22:59:27 Saved as file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT2.MAX
+Thu Oct 30 23:18:14 Loaded file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT.MAX
+Thu Oct 30 23:18:14 Loaded file E:\ORCAD\!MY\CONTROL BOX\DINO_SMT.LLB
+Thu Oct 30 23:18:15 Loaded file E:\ORCAD\!MY\GND SWITCH\SPIKE_GEN.LLB
+Thu Oct 30 23:18:15 Loaded file E:\ORCAD\MY_LIB\PROLEN_LIB.LLB
+Thu Oct 30 23:18:15 Loaded file E:\ORCAD\!MY\SPIKE GENERATOR\DIX-SOT23.LLB
+Thu Oct 30 23:18:15 Loaded file E:\ORCAD\!MY\SPIKE GENERATOR\DIX.LLB
+Thu Oct 30 23:18:15 Loaded file E:\ORCAD\!MY\SPIKE GENERATOR\PAD_DINO.LLB
+Thu Oct 30 23:18:15 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BCON100T.llb
+Thu Oct 30 23:18:15 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BCON156T.llb
+Thu Oct 30 23:18:15 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BGA.llb
+Thu Oct 30 23:18:15 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\CLCC.llb
+Thu Oct 30 23:18:15 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DCON050T.llb
+Thu Oct 30 23:18:15 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DCON085T.llb
+Thu Oct 30 23:18:15 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIMM050F.llb
+Thu Oct 30 23:18:15 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIMM050T.llb
+Thu Oct 30 23:18:15 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIN.llb
+Thu Oct 30 23:18:15 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIP100B.llb
+Thu Oct 30 23:18:15 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIP100T.llb
+Thu Oct 30 23:18:15 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DSUBT.llb
+Thu Oct 30 23:18:15 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DSUBT_HD.LLB
+Thu Oct 30 23:18:15 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ECON100T.llb
+Thu Oct 30 23:18:15 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\FBUS.llb
+Thu Oct 30 23:18:15 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ISA.llb
+Thu Oct 30 23:18:15 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\JUMPER.LLB
+Thu Oct 30 23:18:15 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\LAYOUT.llb
+Thu Oct 30 23:18:15 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\LCON100T.llb
+Thu Oct 30 23:18:15 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PC104.llb
+Thu Oct 30 23:18:15 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCI.llb
+Thu Oct 30 23:18:15 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCON100T.llb
+Thu Oct 30 23:18:15 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCON156T.llb
+Thu Oct 30 23:18:15 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PGA.llb
+Thu Oct 30 23:18:15 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PLCC.llb
+Thu Oct 30 23:18:15 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\QUAD.llb
+Thu Oct 30 23:18:15 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\QUADB.llb
+Thu Oct 30 23:18:15 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\RELAY.llb
+Thu Oct 30 23:18:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\RF.llb
+Thu Oct 30 23:18:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SBUS.llb
+Thu Oct 30 23:18:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM050F.llb
+Thu Oct 30 23:18:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM050T.llb
+Thu Oct 30 23:18:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM100F.llb
+Thu Oct 30 23:18:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM100T.llb
+Thu Oct 30 23:18:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIP.llb
+Thu Oct 30 23:18:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SM.llb
+Thu Oct 30 23:18:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SOG.llb
+Thu Oct 30 23:18:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SOJ.llb
+Thu Oct 30 23:18:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\STIFF.llb
+Thu Oct 30 23:18:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TELE.llb
+Thu Oct 30 23:18:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_AXIAL.llb
+Thu Oct 30 23:18:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_CAP_P.llb
+Thu Oct 30 23:18:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_CYLND.llb
+Thu Oct 30 23:18:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_DIODE.llb
+Thu Oct 30 23:18:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_DISC.llb
+Thu Oct 30 23:18:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_RAD.llb
+Thu Oct 30 23:18:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TO.llb
+Thu Oct 30 23:18:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TRAINING.LLB
+Thu Oct 30 23:18:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\VRES.llb
+Thu Oct 30 23:18:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\WCON100T.llb
+Thu Oct 30 23:18:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\XT.llb
+Thu Oct 30 23:18:16 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ZIGZAG.llb
+Thu Oct 30 23:18:20 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SM.llb
+Thu Oct 30 23:18:20 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:18:20 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:18:20 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:18:20 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:18:20 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:18:20 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:18:20 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:18:20 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:18:20 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:18:20 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:18:20 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:18:20 Loaded file E:\ORCAD\!MY\CONTROL BOX\DINO_SMT.LLB
+Thu Oct 30 23:18:20 Loaded file E:\ORCAD\!MY\CONTROL BOX\DINO_SMT.LLB
+Thu Oct 30 23:18:24 Saved as file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT2.MAX
+Thu Oct 30 23:19:54 Saved as file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT3.MAX
+Thu Oct 30 23:19:54 Saved as file BACKUP1.MAX
+Thu Oct 30 23:19:54 Saved as file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT3.MAX
+Thu Oct 30 23:19:54 UserDiv from Layout.INI for AutoECO: 60
+Thu Oct 30 23:19:54 Loaded file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT3.MAX
+Thu Oct 30 23:19:54 Loaded file E:\ORCAD\!MY\CONTROL BOX\DINO_SMT.LLB
+Thu Oct 30 23:19:54 Loaded file E:\ORCAD\!MY\GND SWITCH\SPIKE_GEN.LLB
+Thu Oct 30 23:19:54 Loaded file E:\ORCAD\MY_LIB\PROLEN_LIB.LLB
+Thu Oct 30 23:19:54 Loaded file E:\ORCAD\!MY\SPIKE GENERATOR\DIX-SOT23.LLB
+Thu Oct 30 23:19:54 Loaded file E:\ORCAD\!MY\SPIKE GENERATOR\DIX.LLB
+Thu Oct 30 23:19:54 Loaded file E:\ORCAD\!MY\SPIKE GENERATOR\PAD_DINO.LLB
+Thu Oct 30 23:19:54 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BCON100T.llb
+Thu Oct 30 23:19:54 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BCON156T.llb
+Thu Oct 30 23:19:54 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BGA.llb
+Thu Oct 30 23:19:54 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\CLCC.llb
+Thu Oct 30 23:19:54 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DCON050T.llb
+Thu Oct 30 23:19:54 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DCON085T.llb
+Thu Oct 30 23:19:54 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIMM050F.llb
+Thu Oct 30 23:19:54 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIMM050T.llb
+Thu Oct 30 23:19:54 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIN.llb
+Thu Oct 30 23:19:54 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIP100B.llb
+Thu Oct 30 23:19:54 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIP100T.llb
+Thu Oct 30 23:19:54 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DSUBT.llb
+Thu Oct 30 23:19:54 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DSUBT_HD.LLB
+Thu Oct 30 23:19:54 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ECON100T.llb
+Thu Oct 30 23:19:54 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\FBUS.llb
+Thu Oct 30 23:19:54 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ISA.llb
+Thu Oct 30 23:19:54 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\JUMPER.LLB
+Thu Oct 30 23:19:54 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\LAYOUT.llb
+Thu Oct 30 23:19:54 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\LCON100T.llb
+Thu Oct 30 23:19:54 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PC104.llb
+Thu Oct 30 23:19:54 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCI.llb
+Thu Oct 30 23:19:54 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCON100T.llb
+Thu Oct 30 23:19:54 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCON156T.llb
+Thu Oct 30 23:19:54 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PGA.llb
+Thu Oct 30 23:19:54 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PLCC.llb
+Thu Oct 30 23:19:54 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\QUAD.llb
+Thu Oct 30 23:19:54 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\QUADB.llb
+Thu Oct 30 23:19:54 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\RELAY.llb
+Thu Oct 30 23:19:55 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\RF.llb
+Thu Oct 30 23:19:55 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SBUS.llb
+Thu Oct 30 23:19:55 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM050F.llb
+Thu Oct 30 23:19:55 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM050T.llb
+Thu Oct 30 23:19:55 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM100F.llb
+Thu Oct 30 23:19:55 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM100T.llb
+Thu Oct 30 23:19:55 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIP.llb
+Thu Oct 30 23:19:55 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SM.llb
+Thu Oct 30 23:19:55 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SOG.llb
+Thu Oct 30 23:19:55 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SOJ.llb
+Thu Oct 30 23:19:55 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\STIFF.llb
+Thu Oct 30 23:19:55 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TELE.llb
+Thu Oct 30 23:19:55 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_AXIAL.llb
+Thu Oct 30 23:19:55 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_CAP_P.llb
+Thu Oct 30 23:19:55 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_CYLND.llb
+Thu Oct 30 23:19:55 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_DIODE.llb
+Thu Oct 30 23:19:55 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_DISC.llb
+Thu Oct 30 23:19:55 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_RAD.llb
+Thu Oct 30 23:19:55 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TO.llb
+Thu Oct 30 23:19:55 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TRAINING.LLB
+Thu Oct 30 23:19:55 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\VRES.llb
+Thu Oct 30 23:19:55 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\WCON100T.llb
+Thu Oct 30 23:19:55 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\XT.llb
+Thu Oct 30 23:19:55 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ZIGZAG.llb
+Thu Oct 30 23:19:55 Loaded file E:\ORCAD\!MY\CONTROL BOX\DINO_SMT.LLB
+Thu Oct 30 23:19:55 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SM.llb
+Thu Oct 30 23:19:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:55 Loaded file E:\ORCAD\!MY\CONTROL BOX\DINO_SMT.LLB
+Thu Oct 30 23:19:55 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\LCON100T.llb
+Thu Oct 30 23:19:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:55 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:56 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:56 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:56 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:56 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:56 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:56 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:56 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:56 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:56 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:56 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:56 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:56 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:56 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:56 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:56 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:56 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:56 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:56 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:56 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:56 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:56 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:56 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:56 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:56 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:56 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:56 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:56 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:56 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:56 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:19:56 Loaded file E:\ORCAD\!MY\CONTROL BOX\DINO_SMT.LLB
+Thu Oct 30 23:19:56 Loaded file E:\ORCAD\!MY\CONTROL BOX\DINO_SMT.LLB
+Thu Oct 30 23:20:31 Loaded file E:\ORCAD\!MY\CONTROL BOX\DINO_SMT.LLB
+Thu Oct 30 23:20:31 Loaded file E:\ORCAD\!MY\CONTROL BOX\DINO_SMT.LLB
+Thu Oct 30 23:20:31 Loaded file E:\ORCAD\!MY\CONTROL BOX\DINO_SMT.LLB
+Thu Oct 30 23:20:33 Loaded file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT3.MAX
+Thu Oct 30 23:20:33 Saved as file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT3.MAX
+Thu Oct 30 23:20:33 Loaded file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT3.MAX
+Thu Oct 30 23:32:44 Saved as file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT3.MAX
+Thu Oct 30 23:32:44 Saved as file BACKUP1.MAX
+Thu Oct 30 23:32:45 Saved as file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT3.MAX
+Thu Oct 30 23:32:45 UserDiv from Layout.INI for AutoECO: 60
+Thu Oct 30 23:32:45 Loaded file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT3.MAX
+Thu Oct 30 23:32:45 Loaded file E:\ORCAD\!MY\CONTROL BOX\DINO_SMT.LLB
+Thu Oct 30 23:32:45 Loaded file E:\ORCAD\!MY\GND SWITCH\SPIKE_GEN.LLB
+Thu Oct 30 23:32:45 Loaded file E:\ORCAD\MY_LIB\PROLEN_LIB.LLB
+Thu Oct 30 23:32:45 Loaded file E:\ORCAD\!MY\SPIKE GENERATOR\DIX-SOT23.LLB
+Thu Oct 30 23:32:45 Loaded file E:\ORCAD\!MY\SPIKE GENERATOR\DIX.LLB
+Thu Oct 30 23:32:45 Loaded file E:\ORCAD\!MY\SPIKE GENERATOR\PAD_DINO.LLB
+Thu Oct 30 23:32:45 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BCON100T.llb
+Thu Oct 30 23:32:45 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BCON156T.llb
+Thu Oct 30 23:32:45 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BGA.llb
+Thu Oct 30 23:32:45 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\CLCC.llb
+Thu Oct 30 23:32:45 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DCON050T.llb
+Thu Oct 30 23:32:45 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DCON085T.llb
+Thu Oct 30 23:32:45 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIMM050F.llb
+Thu Oct 30 23:32:45 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIMM050T.llb
+Thu Oct 30 23:32:45 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIN.llb
+Thu Oct 30 23:32:45 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIP100B.llb
+Thu Oct 30 23:32:45 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIP100T.llb
+Thu Oct 30 23:32:45 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DSUBT.llb
+Thu Oct 30 23:32:45 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DSUBT_HD.LLB
+Thu Oct 30 23:32:45 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ECON100T.llb
+Thu Oct 30 23:32:45 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\FBUS.llb
+Thu Oct 30 23:32:45 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ISA.llb
+Thu Oct 30 23:32:45 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\JUMPER.LLB
+Thu Oct 30 23:32:45 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\LAYOUT.llb
+Thu Oct 30 23:32:45 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\LCON100T.llb
+Thu Oct 30 23:32:45 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PC104.llb
+Thu Oct 30 23:32:45 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCI.llb
+Thu Oct 30 23:32:45 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCON100T.llb
+Thu Oct 30 23:32:45 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCON156T.llb
+Thu Oct 30 23:32:45 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PGA.llb
+Thu Oct 30 23:32:46 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PLCC.llb
+Thu Oct 30 23:32:46 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\QUAD.llb
+Thu Oct 30 23:32:46 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\QUADB.llb
+Thu Oct 30 23:32:46 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\RELAY.llb
+Thu Oct 30 23:32:46 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\RF.llb
+Thu Oct 30 23:32:46 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SBUS.llb
+Thu Oct 30 23:32:46 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM050F.llb
+Thu Oct 30 23:32:46 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM050T.llb
+Thu Oct 30 23:32:46 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM100F.llb
+Thu Oct 30 23:32:46 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM100T.llb
+Thu Oct 30 23:32:46 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIP.llb
+Thu Oct 30 23:32:46 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SM.llb
+Thu Oct 30 23:32:46 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SOG.llb
+Thu Oct 30 23:32:46 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SOJ.llb
+Thu Oct 30 23:32:46 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\STIFF.llb
+Thu Oct 30 23:32:46 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TELE.llb
+Thu Oct 30 23:32:46 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_AXIAL.llb
+Thu Oct 30 23:32:46 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_CAP_P.llb
+Thu Oct 30 23:32:46 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_CYLND.llb
+Thu Oct 30 23:32:46 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_DIODE.llb
+Thu Oct 30 23:32:46 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_DISC.llb
+Thu Oct 30 23:32:46 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_RAD.llb
+Thu Oct 30 23:32:46 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TO.llb
+Thu Oct 30 23:32:46 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TRAINING.LLB
+Thu Oct 30 23:32:46 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\VRES.llb
+Thu Oct 30 23:32:46 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\WCON100T.llb
+Thu Oct 30 23:32:46 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\XT.llb
+Thu Oct 30 23:32:46 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ZIGZAG.llb
+Thu Oct 30 23:32:46 Loaded file E:\ORCAD\!MY\CONTROL BOX\DINO_SMT.LLB
+Thu Oct 30 23:32:46 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SM.llb
+Thu Oct 30 23:32:46 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:46 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:46 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:46 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:46 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:46 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:46 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:46 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:46 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:46 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:46 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:46 Loaded file E:\ORCAD\!MY\CONTROL BOX\DINO_SMT.LLB
+Thu Oct 30 23:32:46 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\LCON100T.llb
+Thu Oct 30 23:32:46 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:46 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:46 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:46 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:46 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:46 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:46 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:46 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:46 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:46 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:46 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:46 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:46 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:47 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:47 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:47 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:47 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:47 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:47 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:47 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:47 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:47 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:47 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:47 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:47 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:47 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:47 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:47 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:47 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:47 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:47 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:47 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:47 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:47 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:47 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:47 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:47 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:47 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:47 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:47 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:47 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:47 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:47 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:47 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:47 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:47 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:47 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:47 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:47 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:47 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:47 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:47 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:47 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:47 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:47 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:47 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:47 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:47 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:47 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:47 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:47 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:47 Footprint coords will be rounded to nearest base unit.
+Thu Oct 30 23:32:47 Loaded file E:\ORCAD\!MY\CONTROL BOX\DINO_SMT.LLB
+Thu Oct 30 23:32:47 Loaded file E:\ORCAD\!MY\CONTROL BOX\DINO_SMT.LLB
+Thu Oct 30 23:32:47 Loaded file E:\ORCAD\!MY\CONTROL BOX\DINO_SMT.LLB
+Thu Oct 30 23:32:47 Loaded file E:\ORCAD\!MY\CONTROL BOX\DINO_SMT.LLB
+Thu Oct 30 23:32:47 Saved as file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT3.MAX
+Thu Oct 30 23:32:47 Loaded file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT3.MAX
+Thu Oct 30 23:50:04 Saved as file BACKUP1.MAX
+Thu Oct 30 23:55:46 Saved as file ~undo.max
+Fri Oct 31 00:03:34 Saved as file BACKUP1.MAX
+Fri Oct 31 00:13:34 Saved as file BACKUP1.MAX
+Fri Oct 31 00:23:34 Saved as file BACKUP1.MAX
+Fri Oct 31 00:33:34 Saved as file BACKUP1.MAX
+Fri Oct 31 00:43:34 Saved as file BACKUP1.MAX
+Fri Oct 31 00:53:34 Saved as file BACKUP1.MAX
+Fri Oct 31 01:03:34 Saved as file BACKUP1.MAX
+Fri Oct 31 01:14:04 Saved as file BACKUP1.MAX
+Fri Oct 31 01:24:04 Saved as file BACKUP1.MAX
+Fri Oct 31 01:27:34 Saved as file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT3.MAX
+Fri Oct 31 01:27:46 Saved as file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT3.MAX
+Fri Oct 31 01:28:02 Saved as file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT3.MAX
+Fri Oct 31 11:09:26 Saved as file BACKUP1.MAX
+Fri Oct 31 11:19:26 Saved as file BACKUP1.MAX
+Fri Oct 31 11:29:26 Saved as file BACKUP1.MAX
+Fri Oct 31 11:39:26 Saved as file BACKUP1.MAX
+Fri Oct 31 11:49:26 Saved as file BACKUP1.MAX
+Fri Oct 31 11:59:26 Saved as file BACKUP1.MAX
+Fri Oct 31 12:04:10 Saved as file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT3.MAX
+Fri Oct 31 12:09:26 Saved as file BACKUP1.MAX
+Fri Oct 31 12:19:26 Saved as file BACKUP1.MAX
+Fri Oct 31 12:29:27 Saved as file BACKUP1.MAX
+Fri Oct 31 12:39:27 Saved as file BACKUP1.MAX
+Fri Oct 31 12:46:15 Saved as file backanno.max
+Fri Oct 31 12:46:28 Saved as file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT4.MAX
+Fri Oct 31 12:46:30 Saved as file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT4.MAX
+Fri Oct 31 12:49:27 Saved as file BACKUP1.MAX
+Fri Oct 31 12:59:27 Saved as file BACKUP1.MAX
+Fri Oct 31 13:06:58 Saved as file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT4.MAX
+Fri Oct 31 13:07:05 Loaded file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT4.MAX
+Fri Oct 31 13:07:27 Saved as file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT4.MAX
+Fri Oct 31 13:07:28 Saved as file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT4.MAX
+Fri Oct 31 13:10:27 Saved as file BACKUP1.MAX
+Fri Oct 31 13:20:57 Saved as file BACKUP1.MAX
+Fri Oct 31 13:30:57 Saved as file BACKUP1.MAX
+Fri Oct 31 13:40:57 Saved as file BACKUP1.MAX
+Fri Oct 31 13:48:06 Saved as file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT4.MAX
+Fri Oct 31 14:31:02 Saved as file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT4.MAX
+Fri Oct 31 14:34:51 Saved as file E:\ORCAD\!MY\CONTROL BOX\FRONT\FRONT4.MAX
+Tue Nov 04 01:57:55 Loaded file d:\cadence\PSD_14\Layout_Eng_Ed\data\template.imp
+Tue Nov 04 01:57:55 Loaded file d:\cadence\PSD_14\Layout_Eng_Ed\data\template.imp
+Wed Nov 05 14:50:26 Saved as file BACKUP1.MAX
+Sat Nov 15 13:26:42 Saved as file BACKUP1.MAX
+Wed Nov 19 23:21:14 Loaded file E:\ARCHIVE\FRONT\FRONT4.MAX
+Wed Nov 19 23:27:18 Saved as file BACKUP1.MAX
+Wed Nov 19 23:37:18 Saved as file BACKUP1.MAX
+Wed Nov 19 23:47:18 Saved as file BACKUP1.MAX
+Wed Nov 19 23:57:18 Saved as file BACKUP1.MAX
+Thu Nov 20 16:16:53 Saved as file BACKUP1.MAX
+Thu Nov 20 16:16:53 Saved as file E:\ARCHIVE\FRONT\FRONT4.MAX
+Thu Nov 20 16:16:55 UserDiv from Layout.INI for AutoECO: 60
+Thu Nov 20 16:16:55 Loaded file E:\ARCHIVE\FRONT\FRONT4.MAX
+Thu Nov 20 16:16:55 Loaded file E:\ARCHIVE\DINO_SMT.LLB
+Thu Nov 20 16:16:55 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BCON100T.llb
+Thu Nov 20 16:16:55 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BCON156T.llb
+Thu Nov 20 16:16:55 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BGA.llb
+Thu Nov 20 16:16:55 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\CLCC.llb
+Thu Nov 20 16:16:55 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DCON050T.llb
+Thu Nov 20 16:16:56 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DCON085T.llb
+Thu Nov 20 16:16:56 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIMM050F.llb
+Thu Nov 20 16:16:56 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIMM050T.llb
+Thu Nov 20 16:16:56 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIN.llb
+Thu Nov 20 16:16:56 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIP100B.llb
+Thu Nov 20 16:16:56 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIP100T.llb
+Thu Nov 20 16:16:56 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DSUBT.llb
+Thu Nov 20 16:16:56 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DSUBT_HD.LLB
+Thu Nov 20 16:16:56 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ECON100T.llb
+Thu Nov 20 16:16:56 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\FBUS.llb
+Thu Nov 20 16:16:56 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ISA.llb
+Thu Nov 20 16:16:56 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\JUMPER.LLB
+Thu Nov 20 16:16:56 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\LAYOUT.llb
+Thu Nov 20 16:16:56 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\LCON100T.llb
+Thu Nov 20 16:16:56 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PC104.llb
+Thu Nov 20 16:16:56 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCI.llb
+Thu Nov 20 16:16:56 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCON100T.llb
+Thu Nov 20 16:16:56 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCON156T.llb
+Thu Nov 20 16:16:56 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PGA.llb
+Thu Nov 20 16:16:56 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PLCC.llb
+Thu Nov 20 16:16:56 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\QUAD.llb
+Thu Nov 20 16:16:56 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\QUADB.llb
+Thu Nov 20 16:16:56 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\RELAY.llb
+Thu Nov 20 16:16:56 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\RF.llb
+Thu Nov 20 16:16:56 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SBUS.llb
+Thu Nov 20 16:16:56 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM050F.llb
+Thu Nov 20 16:16:56 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM050T.llb
+Thu Nov 20 16:16:56 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM100F.llb
+Thu Nov 20 16:16:56 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM100T.llb
+Thu Nov 20 16:16:56 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIP.llb
+Thu Nov 20 16:16:56 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SM.llb
+Thu Nov 20 16:16:56 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SOG.llb
+Thu Nov 20 16:16:56 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SOJ.llb
+Thu Nov 20 16:16:56 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\STIFF.llb
+Thu Nov 20 16:16:56 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TELE.llb
+Thu Nov 20 16:16:56 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_AXIAL.llb
+Thu Nov 20 16:16:57 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_CAP_P.llb
+Thu Nov 20 16:16:57 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_CYLND.llb
+Thu Nov 20 16:16:57 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_DIODE.llb
+Thu Nov 20 16:16:57 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_DISC.llb
+Thu Nov 20 16:16:57 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_RAD.llb
+Thu Nov 20 16:16:57 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TO.llb
+Thu Nov 20 16:16:57 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TRAINING.LLB
+Thu Nov 20 16:16:57 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\VRES.llb
+Thu Nov 20 16:16:57 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\WCON100T.llb
+Thu Nov 20 16:16:57 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\XT.llb
+Thu Nov 20 16:16:57 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ZIGZAG.llb
+Thu Nov 20 16:16:57 Saved as file E:\ARCHIVE\FRONT\FRONT4.MAX
+Thu Nov 20 16:16:57 Loaded file E:\ARCHIVE\FRONT\FRONT4.MAX
+Thu Nov 20 16:27:46 Saved as file BACKUP1.MAX
+Thu Nov 20 16:37:46 Saved as file BACKUP1.MAX
+Thu Nov 20 16:47:46 Saved as file BACKUP1.MAX
+Thu Nov 20 16:57:46 Saved as file BACKUP1.MAX
+Thu Nov 20 17:07:47 Saved as file BACKUP1.MAX
+Thu Nov 20 17:17:47 Saved as file BACKUP1.MAX
+Thu Nov 20 17:27:47 Saved as file BACKUP1.MAX
+Thu Nov 20 17:37:47 Saved as file BACKUP1.MAX
+Thu Nov 20 17:47:47 Saved as file BACKUP1.MAX
+Thu Nov 20 17:57:47 Saved as file BACKUP1.MAX
+Thu Nov 20 18:07:47 Saved as file BACKUP1.MAX
+Thu Nov 20 18:17:47 Saved as file BACKUP1.MAX
+Thu Nov 20 18:27:47 Saved as file BACKUP1.MAX
+Thu Nov 20 18:37:47 Saved as file BACKUP1.MAX
+Thu Nov 20 18:47:47 Saved as file BACKUP1.MAX
+Thu Nov 20 18:57:47 Saved as file BACKUP1.MAX
+Thu Nov 20 19:07:47 Saved as file BACKUP1.MAX
+Thu Nov 20 19:17:47 Saved as file BACKUP1.MAX
+Thu Nov 20 19:27:47 Saved as file BACKUP1.MAX
+Thu Nov 20 19:37:47 Saved as file BACKUP1.MAX
+Thu Nov 20 19:47:48 Saved as file BACKUP1.MAX
+Thu Nov 20 19:57:48 Saved as file BACKUP1.MAX
+Thu Nov 20 20:07:48 Saved as file BACKUP1.MAX
+Thu Nov 20 20:13:23 Loaded file E:\ARCHIVE\FRONT\FRONT4.MAX
+Thu Nov 20 20:13:23 Loaded file E:\ARCHIVE\DINO_SMT.LLB
+Thu Nov 20 20:13:23 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BCON100T.llb
+Thu Nov 20 20:13:23 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BCON156T.llb
+Thu Nov 20 20:13:23 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BGA.llb
+Thu Nov 20 20:13:23 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\CLCC.llb
+Thu Nov 20 20:13:23 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DCON050T.llb
+Thu Nov 20 20:13:23 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DCON085T.llb
+Thu Nov 20 20:13:23 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIMM050F.llb
+Thu Nov 20 20:13:23 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIMM050T.llb
+Thu Nov 20 20:13:23 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIN.llb
+Thu Nov 20 20:13:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIP100B.llb
+Thu Nov 20 20:13:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIP100T.llb
+Thu Nov 20 20:13:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DSUBT.llb
+Thu Nov 20 20:13:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DSUBT_HD.LLB
+Thu Nov 20 20:13:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ECON100T.llb
+Thu Nov 20 20:13:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\FBUS.llb
+Thu Nov 20 20:13:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ISA.llb
+Thu Nov 20 20:13:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\JUMPER.LLB
+Thu Nov 20 20:13:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\LAYOUT.llb
+Thu Nov 20 20:13:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\LCON100T.llb
+Thu Nov 20 20:13:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PC104.llb
+Thu Nov 20 20:13:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCI.llb
+Thu Nov 20 20:13:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCON100T.llb
+Thu Nov 20 20:13:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCON156T.llb
+Thu Nov 20 20:13:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PGA.llb
+Thu Nov 20 20:13:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PLCC.llb
+Thu Nov 20 20:13:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\QUAD.llb
+Thu Nov 20 20:13:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\QUADB.llb
+Thu Nov 20 20:13:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\RELAY.llb
+Thu Nov 20 20:13:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\RF.llb
+Thu Nov 20 20:13:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SBUS.llb
+Thu Nov 20 20:13:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM050F.llb
+Thu Nov 20 20:13:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM050T.llb
+Thu Nov 20 20:13:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM100F.llb
+Thu Nov 20 20:13:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM100T.llb
+Thu Nov 20 20:13:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIP.llb
+Thu Nov 20 20:13:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SM.llb
+Thu Nov 20 20:13:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SOG.llb
+Thu Nov 20 20:13:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SOJ.llb
+Thu Nov 20 20:13:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\STIFF.llb
+Thu Nov 20 20:13:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TELE.llb
+Thu Nov 20 20:13:25 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_AXIAL.llb
+Thu Nov 20 20:13:25 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_CAP_P.llb
+Thu Nov 20 20:13:25 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_CYLND.llb
+Thu Nov 20 20:13:25 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_DIODE.llb
+Thu Nov 20 20:13:25 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_DISC.llb
+Thu Nov 20 20:13:25 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_RAD.llb
+Thu Nov 20 20:13:25 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TO.llb
+Thu Nov 20 20:13:25 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TRAINING.LLB
+Thu Nov 20 20:13:25 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\VRES.llb
+Thu Nov 20 20:13:25 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\WCON100T.llb
+Thu Nov 20 20:13:25 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\XT.llb
+Thu Nov 20 20:13:25 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ZIGZAG.llb
+Thu Nov 20 20:13:35 Saved as file E:\ARCHIVE\FRONT\FRONT5.MAX
+Thu Nov 20 20:15:32 Saved as file ~undo.max
+Thu Nov 20 20:17:05 Saved as file E:\ARCHIVE\FRONT\FRONT5.MAX
+Thu Nov 20 20:17:25 Saved as file E:\ARCHIVE\FRONT\FRONT5.MAX
+Thu Nov 20 20:23:40 Saved as file BACKUP1.MAX
+Thu Nov 20 20:26:34 Loaded file d:\cadence\PSD_14\Layout_Eng_Ed\data\template.imp
+Thu Nov 20 20:26:34 Loaded file d:\cadence\PSD_14\Layout_Eng_Ed\data\template.imp
+Thu Nov 20 20:26:34 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:34 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:34 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:34 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:34 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:34 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:34 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:34 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:34 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:34 Loaded file d:\cadence\PSD_14\Layout_Eng_Ed\data\template.imp
+Thu Nov 20 20:26:34 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:34 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:34 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:34 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:34 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:34 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:34 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:34 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:34 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:34 Loaded file d:\cadence\PSD_14\Layout_Eng_Ed\data\template.imp
+Thu Nov 20 20:26:35 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:35 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:35 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:35 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:35 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:35 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:35 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:35 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:35 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:35 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:35 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:35 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:35 Loaded file d:\cadence\PSD_14\Layout_Eng_Ed\data\template.imp
+Thu Nov 20 20:26:36 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:36 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:36 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:36 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:36 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:36 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:36 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:36 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:36 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:36 Loaded file d:\cadence\PSD_14\Layout_Eng_Ed\data\template.imp
+Thu Nov 20 20:26:40 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:40 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:40 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:40 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:40 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:40 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:40 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:40 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:40 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:40 Loaded file d:\cadence\PSD_14\Layout_Eng_Ed\data\template.imp
+Thu Nov 20 20:26:50 Loaded file d:\cadence\PSD_14\Layout_Eng_Ed\data\template.imp
+Thu Nov 20 20:26:50 Loaded file d:\cadence\PSD_14\Layout_Eng_Ed\data\template.imp
+Thu Nov 20 20:26:50 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:50 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:50 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:50 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:50 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:50 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:50 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:50 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:50 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:50 Loaded file d:\cadence\PSD_14\Layout_Eng_Ed\data\template.imp
+Thu Nov 20 20:26:50 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:50 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:50 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:50 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:50 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:50 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:50 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:50 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:50 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:50 Loaded file d:\cadence\PSD_14\Layout_Eng_Ed\data\template.imp
+Thu Nov 20 20:26:52 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BCON100T.llb
+Thu Nov 20 20:26:53 Loaded file E:\ARCHIVE\DINO_SMT.LLB
+Thu Nov 20 20:26:53 Loaded file d:\cadence\PSD_14\Layout_Eng_Ed\data\template.imp
+Thu Nov 20 20:26:53 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:53 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:53 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:53 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:53 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:53 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:53 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:53 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:53 Loaded file d:\cadence\PSD_14\Layout_Eng_Ed\data\template.imp
+Thu Nov 20 20:26:54 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:54 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:54 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:54 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:54 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:54 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:54 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:54 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:54 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:56 Loaded file d:\cadence\PSD_14\Layout_Eng_Ed\data\template.imp
+Thu Nov 20 20:26:56 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:56 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:56 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:56 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:56 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:56 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:56 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:56 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:56 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:56 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:56 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:56 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:56 Loaded file d:\cadence\PSD_14\Layout_Eng_Ed\data\template.imp
+Thu Nov 20 20:26:56 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:56 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:56 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:56 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:56 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:56 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:56 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:56 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:56 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:26:56 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:27:00 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:27:00 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:27:00 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:27:00 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:27:00 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:27:00 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:27:00 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:27:00 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:27:00 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:27:00 Footprint coords will be rounded to nearest base unit.
+Thu Nov 20 20:34:10 Saved as file BACKUP1.MAX
+Thu Nov 20 20:44:10 Saved as file BACKUP1.MAX
+Thu Nov 20 20:54:10 Saved as file BACKUP1.MAX
+Thu Nov 20 21:04:10 Saved as file BACKUP1.MAX
+Thu Nov 20 21:14:10 Saved as file BACKUP1.MAX
+Thu Nov 20 21:24:10 Saved as file BACKUP1.MAX
+Thu Nov 20 21:34:10 Saved as file BACKUP1.MAX
+Thu Nov 20 21:44:10 Saved as file BACKUP1.MAX
+Thu Nov 20 21:54:10 Saved as file BACKUP1.MAX
+Thu Nov 20 22:04:10 Saved as file BACKUP1.MAX
+Thu Nov 20 22:14:10 Saved as file BACKUP1.MAX
+Thu Nov 20 22:24:10 Saved as file BACKUP1.MAX
+Thu Nov 20 22:34:10 Saved as file BACKUP1.MAX
+Thu Nov 20 22:44:11 Saved as file BACKUP1.MAX
+Thu Nov 20 22:54:11 Saved as file BACKUP1.MAX
+Thu Nov 20 23:04:11 Saved as file BACKUP1.MAX
+Thu Nov 20 23:14:11 Saved as file BACKUP1.MAX
+Thu Nov 20 23:24:11 Saved as file BACKUP1.MAX
+Thu Nov 20 23:34:11 Saved as file BACKUP1.MAX
+Thu Nov 20 23:44:11 Saved as file BACKUP1.MAX
+Thu Nov 20 23:54:11 Saved as file BACKUP1.MAX
+Fri Nov 21 00:04:11 Saved as file BACKUP1.MAX
+Fri Nov 21 00:14:11 Saved as file BACKUP1.MAX
+Fri Nov 21 00:24:11 Saved as file BACKUP1.MAX
+Fri Nov 21 00:34:11 Saved as file BACKUP1.MAX
+Fri Nov 21 00:44:11 Saved as file BACKUP1.MAX
+Fri Nov 21 00:54:11 Saved as file BACKUP1.MAX
+Fri Nov 21 01:04:11 Saved as file BACKUP1.MAX
+Fri Nov 21 01:14:11 Saved as file BACKUP1.MAX
+Fri Nov 21 01:24:12 Saved as file BACKUP1.MAX
+Fri Nov 21 01:34:12 Saved as file BACKUP1.MAX
+Fri Nov 21 01:44:12 Saved as file BACKUP1.MAX
+Fri Nov 21 01:54:12 Saved as file BACKUP1.MAX
+Fri Nov 21 02:04:12 Saved as file BACKUP1.MAX
+Fri Nov 21 02:14:12 Saved as file BACKUP1.MAX
+Fri Nov 21 02:24:12 Saved as file BACKUP1.MAX
+Fri Nov 21 02:31:11 Saved as file E:\ARCHIVE\FRONT\FRONT5.MAX
+Mon Nov 24 03:39:54 Saved as file E:\ARCHIVE\FRONT\FRONT5.MAX
+Mon Nov 24 03:40:51 Saved as file BACKUP1.MAX
+Mon Nov 24 03:42:04 Saved as file E:\ARCHIVE\FRONT\FRONT5.MAX
+Mon Nov 24 03:49:36 Saved as file E:\ARCHIVE\FRONT\FRONT5.MAX
+Mon Nov 24 03:51:51 Saved as file BACKUP1.MAX
+Mon Nov 24 03:54:39 Saved as file E:\ARCHIVE\FRONT\FRONT5.MAX
+Mon Nov 24 03:56:18 Saved as file ~undo.max
+Mon Nov 24 03:57:02 Saved as file E:\ARCHIVE\FRONT\FRONT5.MAX
+Mon Nov 24 03:58:44 Saved as file E:\ARCHIVE\FRONT\FRONT5.MAX
+Mon Nov 24 04:01:24 Saved as file E:\ARCHIVE\FRONT\FRONT5.MAX
+Mon Nov 24 04:05:37 Saved as file BACKUP1.MAX
+Mon Nov 24 04:07:48 Loaded file d:\cadence\PSD_14\Layout_Eng_Ed\data\template.imp
+Mon Nov 24 04:07:48 Loaded file d:\cadence\PSD_14\Layout_Eng_Ed\data\template.imp
+Mon Nov 24 04:07:48 Footprint coords will be rounded to nearest base unit.
+Mon Nov 24 04:07:48 Footprint coords will be rounded to nearest base unit.
+Mon Nov 24 04:07:48 Footprint coords will be rounded to nearest base unit.
+Mon Nov 24 04:07:48 Footprint coords will be rounded to nearest base unit.
+Mon Nov 24 04:07:48 Footprint coords will be rounded to nearest base unit.
+Mon Nov 24 04:07:48 Footprint coords will be rounded to nearest base unit.
+Mon Nov 24 04:07:49 Footprint coords will be rounded to nearest base unit.
+Mon Nov 24 04:07:49 Footprint coords will be rounded to nearest base unit.
+Mon Nov 24 04:07:49 Footprint coords will be rounded to nearest base unit.
+Mon Nov 24 04:07:49 Footprint coords will be rounded to nearest base unit.
+Mon Nov 24 04:07:49 Loaded file d:\cadence\PSD_14\Layout_Eng_Ed\data\template.imp
+Mon Nov 24 04:07:49 Footprint coords will be rounded to nearest base unit.
+Mon Nov 24 04:07:49 Footprint coords will be rounded to nearest base unit.
+Mon Nov 24 04:07:49 Footprint coords will be rounded to nearest base unit.
+Mon Nov 24 04:07:49 Footprint coords will be rounded to nearest base unit.
+Mon Nov 24 04:07:49 Footprint coords will be rounded to nearest base unit.
+Mon Nov 24 04:07:49 Footprint coords will be rounded to nearest base unit.
+Mon Nov 24 04:07:49 Footprint coords will be rounded to nearest base unit.
+Mon Nov 24 04:07:49 Footprint coords will be rounded to nearest base unit.
+Mon Nov 24 04:07:49 Footprint coords will be rounded to nearest base unit.
+Mon Nov 24 04:07:49 Footprint coords will be rounded to nearest base unit.
+Mon Nov 24 04:07:49 Loaded file d:\cadence\PSD_14\Layout_Eng_Ed\data\template.imp
+Mon Nov 24 04:07:51 Loaded file E:\ARCHIVE\DINO_SMT.LLB
+Mon Nov 24 04:07:52 Loaded file d:\cadence\PSD_14\Layout_Eng_Ed\data\template.imp
+Mon Nov 24 04:07:52 Footprint coords will be rounded to nearest base unit.
+Mon Nov 24 04:07:52 Footprint coords will be rounded to nearest base unit.
+Mon Nov 24 04:07:52 Footprint coords will be rounded to nearest base unit.
+Mon Nov 24 04:07:52 Footprint coords will be rounded to nearest base unit.
+Mon Nov 24 04:07:52 Footprint coords will be rounded to nearest base unit.
+Mon Nov 24 04:07:52 Footprint coords will be rounded to nearest base unit.
+Mon Nov 24 04:07:52 Footprint coords will be rounded to nearest base unit.
+Mon Nov 24 04:07:52 Footprint coords will be rounded to nearest base unit.
+Mon Nov 24 04:07:52 Footprint coords will be rounded to nearest base unit.
+Mon Nov 24 04:07:52 Footprint coords will be rounded to nearest base unit.
+Mon Nov 24 04:07:52 Footprint coords will be rounded to nearest base unit.
+Mon Nov 24 04:07:52 Footprint coords will be rounded to nearest base unit.
+Mon Nov 24 04:07:53 Loaded file d:\cadence\PSD_14\Layout_Eng_Ed\data\template.imp
+Mon Nov 24 04:07:53 Footprint coords will be rounded to nearest base unit.
+Mon Nov 24 04:07:53 Footprint coords will be rounded to nearest base unit.
+Mon Nov 24 04:07:53 Footprint coords will be rounded to nearest base unit.
+Mon Nov 24 04:07:53 Footprint coords will be rounded to nearest base unit.
+Mon Nov 24 04:07:53 Footprint coords will be rounded to nearest base unit.
+Mon Nov 24 04:07:53 Footprint coords will be rounded to nearest base unit.
+Mon Nov 24 04:07:53 Footprint coords will be rounded to nearest base unit.
+Mon Nov 24 04:07:53 Footprint coords will be rounded to nearest base unit.
+Mon Nov 24 04:07:53 Footprint coords will be rounded to nearest base unit.
+Mon Nov 24 04:07:55 Loaded file d:\cadence\PSD_14\Layout_Eng_Ed\data\template.imp
+Mon Nov 24 04:07:55 Footprint coords will be rounded to nearest base unit.
+Mon Nov 24 04:07:55 Footprint coords will be rounded to nearest base unit.
+Mon Nov 24 04:07:55 Footprint coords will be rounded to nearest base unit.
+Mon Nov 24 04:07:55 Footprint coords will be rounded to nearest base unit.
+Mon Nov 24 04:07:55 Footprint coords will be rounded to nearest base unit.
+Mon Nov 24 04:07:55 Footprint coords will be rounded to nearest base unit.
+Mon Nov 24 04:08:00 Footprint coords will be rounded to nearest base unit.
+Mon Nov 24 04:08:00 Footprint coords will be rounded to nearest base unit.
+Mon Nov 24 04:08:00 Footprint coords will be rounded to nearest base unit.
+Mon Nov 24 04:08:00 Footprint coords will be rounded to nearest base unit.
+Mon Nov 24 04:08:00 Footprint coords will be rounded to nearest base unit.
+Mon Nov 24 04:08:00 Footprint coords will be rounded to nearest base unit.
+Mon Nov 24 04:12:15 Saved as file E:\ARCHIVE\FRONT\FRONT5.MAX
+Mon Nov 24 04:18:07 Saved as file BACKUP1.MAX
+Mon Nov 24 04:23:17 Saved as file E:\ARCHIVE\FRONT\FRONT5.MAX
+Mon Nov 24 10:39:44 Saved as file BACKUP1.MAX
+Mon Nov 24 10:49:44 Saved as file BACKUP1.MAX
+Mon Nov 24 10:53:22 Saved as file E:\ARCHIVE\FRONT\FRONT5.MAX
+Mon Nov 24 10:56:10 Loaded file E:\ARCHIVE\FRONT\FRONT5.MAX
+Mon Nov 24 10:56:11 Loaded file E:\ARCHIVE\DINO_SMT.LLB
+Mon Nov 24 10:56:11 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BCON100T.llb
+Mon Nov 24 10:56:11 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BCON156T.llb
+Mon Nov 24 10:56:11 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BGA.llb
+Mon Nov 24 10:56:11 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\CLCC.llb
+Mon Nov 24 10:56:11 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DCON050T.llb
+Mon Nov 24 10:56:11 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DCON085T.llb
+Mon Nov 24 10:56:11 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIMM050F.llb
+Mon Nov 24 10:56:11 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIMM050T.llb
+Mon Nov 24 10:56:11 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIN.llb
+Mon Nov 24 10:56:11 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIP100B.llb
+Mon Nov 24 10:56:12 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIP100T.llb
+Mon Nov 24 10:56:12 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DSUBT.llb
+Mon Nov 24 10:56:12 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DSUBT_HD.LLB
+Mon Nov 24 10:56:12 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ECON100T.llb
+Mon Nov 24 10:56:12 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\FBUS.llb
+Mon Nov 24 10:56:12 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ISA.llb
+Mon Nov 24 10:56:12 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\JUMPER.LLB
+Mon Nov 24 10:56:12 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\LAYOUT.llb
+Mon Nov 24 10:56:12 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\LCON100T.llb
+Mon Nov 24 10:56:12 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PC104.llb
+Mon Nov 24 10:56:12 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCI.llb
+Mon Nov 24 10:56:12 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCON100T.llb
+Mon Nov 24 10:56:13 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCON156T.llb
+Mon Nov 24 10:56:13 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PGA.llb
+Mon Nov 24 10:56:13 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PLCC.llb
+Mon Nov 24 10:56:13 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\QUAD.llb
+Mon Nov 24 10:56:13 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\QUADB.llb
+Mon Nov 24 10:56:13 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\RELAY.llb
+Mon Nov 24 10:56:13 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\RF.llb
+Mon Nov 24 10:56:13 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SBUS.llb
+Mon Nov 24 10:56:14 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM050F.llb
+Mon Nov 24 10:56:14 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM050T.llb
+Mon Nov 24 10:56:14 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM100F.llb
+Mon Nov 24 10:56:14 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM100T.llb
+Mon Nov 24 10:56:14 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIP.llb
+Mon Nov 24 10:56:14 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SM.llb
+Mon Nov 24 10:56:14 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SOG.llb
+Mon Nov 24 10:56:14 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SOJ.llb
+Mon Nov 24 10:56:14 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\STIFF.llb
+Mon Nov 24 10:56:14 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TELE.llb
+Mon Nov 24 10:56:14 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_AXIAL.llb
+Mon Nov 24 10:56:15 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_CAP_P.llb
+Mon Nov 24 10:56:15 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_CYLND.llb
+Mon Nov 24 10:56:15 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_DIODE.llb
+Mon Nov 24 10:56:15 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_DISC.llb
+Mon Nov 24 10:56:15 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_RAD.llb
+Mon Nov 24 10:56:15 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TO.llb
+Mon Nov 24 10:56:15 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TRAINING.LLB
+Mon Nov 24 10:56:15 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\VRES.llb
+Mon Nov 24 10:56:15 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\WCON100T.llb
+Mon Nov 24 10:56:15 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\XT.llb
+Mon Nov 24 10:56:15 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ZIGZAG.llb
+Mon Nov 24 10:56:27 Saved as file E:\ARCHIVE\FRONT\FRONT6.MAX
+Mon Nov 24 10:58:21 Saved as file E:\ARCHIVE\FRONT\FRONT6.MAX
+Mon Nov 24 11:02:36 Saved as file E:\ARCHIVE\FRONT\FRONT6.MAX
+Mon Nov 24 11:04:34 Loaded file E:\ARCHIVE\FRONT\FRONT6.MAX
+Mon Nov 24 11:04:34 Loaded file E:\ARCHIVE\DINO_SMT.LLB
+Mon Nov 24 11:04:34 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BCON100T.llb
+Mon Nov 24 11:04:34 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BCON156T.llb
+Mon Nov 24 11:04:34 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BGA.llb
+Mon Nov 24 11:04:34 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\CLCC.llb
+Mon Nov 24 11:04:34 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DCON050T.llb
+Mon Nov 24 11:04:34 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DCON085T.llb
+Mon Nov 24 11:04:34 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIMM050F.llb
+Mon Nov 24 11:04:34 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIMM050T.llb
+Mon Nov 24 11:04:34 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIN.llb
+Mon Nov 24 11:04:34 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIP100B.llb
+Mon Nov 24 11:04:34 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIP100T.llb
+Mon Nov 24 11:04:34 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DSUBT.llb
+Mon Nov 24 11:04:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DSUBT_HD.LLB
+Mon Nov 24 11:04:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ECON100T.llb
+Mon Nov 24 11:04:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\FBUS.llb
+Mon Nov 24 11:04:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ISA.llb
+Mon Nov 24 11:04:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\JUMPER.LLB
+Mon Nov 24 11:04:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\LAYOUT.llb
+Mon Nov 24 11:04:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\LCON100T.llb
+Mon Nov 24 11:04:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PC104.llb
+Mon Nov 24 11:04:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCI.llb
+Mon Nov 24 11:04:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCON100T.llb
+Mon Nov 24 11:04:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCON156T.llb
+Mon Nov 24 11:04:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PGA.llb
+Mon Nov 24 11:04:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PLCC.llb
+Mon Nov 24 11:04:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\QUAD.llb
+Mon Nov 24 11:04:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\QUADB.llb
+Mon Nov 24 11:04:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\RELAY.llb
+Mon Nov 24 11:04:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\RF.llb
+Mon Nov 24 11:04:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SBUS.llb
+Mon Nov 24 11:04:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM050F.llb
+Mon Nov 24 11:04:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM050T.llb
+Mon Nov 24 11:04:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM100F.llb
+Mon Nov 24 11:04:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM100T.llb
+Mon Nov 24 11:04:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIP.llb
+Mon Nov 24 11:04:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SM.llb
+Mon Nov 24 11:04:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SOG.llb
+Mon Nov 24 11:04:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SOJ.llb
+Mon Nov 24 11:04:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\STIFF.llb
+Mon Nov 24 11:04:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TELE.llb
+Mon Nov 24 11:04:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_AXIAL.llb
+Mon Nov 24 11:04:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_CAP_P.llb
+Mon Nov 24 11:04:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_CYLND.llb
+Mon Nov 24 11:04:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_DIODE.llb
+Mon Nov 24 11:04:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_DISC.llb
+Mon Nov 24 11:04:35 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_RAD.llb
+Mon Nov 24 11:04:36 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TO.llb
+Mon Nov 24 11:04:36 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TRAINING.LLB
+Mon Nov 24 11:04:36 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\VRES.llb
+Mon Nov 24 11:04:36 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\WCON100T.llb
+Mon Nov 24 11:04:36 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\XT.llb
+Mon Nov 24 11:04:36 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ZIGZAG.llb
+Mon Nov 24 11:04:45 Saved as file E:\ARCHIVE\FRONT\FRONT6.MAX
+Mon Nov 24 11:05:20 Saved as file ~undo.max
+Mon Nov 24 11:06:06 Saved as file E:\ARCHIVE\FRONT\FRONT6.MAX
+Mon Nov 24 11:07:24 Loaded file E:\ARCHIVE\FRONT\FRONT6.MAX
+Mon Nov 24 11:07:24 Loaded file E:\ARCHIVE\DINO_SMT.LLB
+Mon Nov 24 11:07:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BCON100T.llb
+Mon Nov 24 11:07:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BCON156T.llb
+Mon Nov 24 11:07:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\BGA.llb
+Mon Nov 24 11:07:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\CLCC.llb
+Mon Nov 24 11:07:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DCON050T.llb
+Mon Nov 24 11:07:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DCON085T.llb
+Mon Nov 24 11:07:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIMM050F.llb
+Mon Nov 24 11:07:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIMM050T.llb
+Mon Nov 24 11:07:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIN.llb
+Mon Nov 24 11:07:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIP100B.llb
+Mon Nov 24 11:07:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DIP100T.llb
+Mon Nov 24 11:07:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DSUBT.llb
+Mon Nov 24 11:07:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\DSUBT_HD.LLB
+Mon Nov 24 11:07:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ECON100T.llb
+Mon Nov 24 11:07:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\FBUS.llb
+Mon Nov 24 11:07:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ISA.llb
+Mon Nov 24 11:07:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\JUMPER.LLB
+Mon Nov 24 11:07:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\LAYOUT.llb
+Mon Nov 24 11:07:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\LCON100T.llb
+Mon Nov 24 11:07:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PC104.llb
+Mon Nov 24 11:07:24 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCI.llb
+Mon Nov 24 11:07:25 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCON100T.llb
+Mon Nov 24 11:07:25 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PCON156T.llb
+Mon Nov 24 11:07:25 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PGA.llb
+Mon Nov 24 11:07:25 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\PLCC.llb
+Mon Nov 24 11:07:25 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\QUAD.llb
+Mon Nov 24 11:07:25 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\QUADB.llb
+Mon Nov 24 11:07:25 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\RELAY.llb
+Mon Nov 24 11:07:25 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\RF.llb
+Mon Nov 24 11:07:25 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SBUS.llb
+Mon Nov 24 11:07:25 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM050F.llb
+Mon Nov 24 11:07:25 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM050T.llb
+Mon Nov 24 11:07:25 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM100F.llb
+Mon Nov 24 11:07:25 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIMM100T.llb
+Mon Nov 24 11:07:25 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SIP.llb
+Mon Nov 24 11:07:25 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SM.llb
+Mon Nov 24 11:07:25 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SOG.llb
+Mon Nov 24 11:07:25 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\SOJ.llb
+Mon Nov 24 11:07:25 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\STIFF.llb
+Mon Nov 24 11:07:25 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TELE.llb
+Mon Nov 24 11:07:25 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_AXIAL.llb
+Mon Nov 24 11:07:25 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_CAP_P.llb
+Mon Nov 24 11:07:25 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_CYLND.llb
+Mon Nov 24 11:07:25 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_DIODE.llb
+Mon Nov 24 11:07:25 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_DISC.llb
+Mon Nov 24 11:07:25 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TM_RAD.llb
+Mon Nov 24 11:07:25 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TO.llb
+Mon Nov 24 11:07:25 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\TRAINING.LLB
+Mon Nov 24 11:07:25 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\VRES.llb
+Mon Nov 24 11:07:25 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\WCON100T.llb
+Mon Nov 24 11:07:25 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\XT.llb
+Mon Nov 24 11:07:25 Loaded file D:\CADENCE\PSD_14\LAYOUT_ENG_ED\library\ZIGZAG.llb
+Mon Nov 24 11:07:33 Saved as file E:\ARCHIVE\FRONT\FRONT6.MAX
+Mon Nov 24 11:18:37 Saved as file BACKUP1.MAX
+Mon Nov 24 11:21:24 Saved as file ~undo.max
+Mon Nov 24 11:28:37 Saved as file BACKUP1.MAX
+Mon Nov 24 11:36:44 Saved as file E:\ARCHIVE\FRONT\FRONT6.MAX
+Mon Nov 24 11:37:37 Saved as file E:\ARCHIVE\FRONT\FRONT6.MAX
+Mon Nov 24 11:45:01 Saved as file E:\ARCHIVE\FRONT\FRONT6.MAX
+Mon Nov 24 11:45:56 Saved as file BACKUP1.MAX
+Mon Nov 24 11:52:21 Saved as file E:\ARCHIVE\FRONT\FRONT6.MAX
+Mon Nov 24 11:55:56 Saved as file BACKUP1.MAX
+Mon Nov 24 12:05:49 Saved as file E:\ARCHIVE\FRONT\FRONT6.MAX
+Mon Nov 24 12:05:56 Saved as file BACKUP1.MAX
+Mon Nov 24 12:07:06 Saved as file E:\ARCHIVE\FRONT\FRONT6.MAX
+Mon Nov 24 12:08:25 Saved as file E:\ARCHIVE\FRONT\FRONT6.MAX
+Mon Nov 24 12:09:02 Saved as file E:\ARCHIVE\FRONT\FRONT6.MAX
+Mon Nov 24 12:16:56 Saved as file BACKUP1.MAX
+Mon Nov 24 12:18:14 Saved as file E:\ARCHIVE\FRONT\FRONT6.MAX
+Mon Nov 24 12:18:38 Saved as file E:\ARCHIVE\FRONT\FRONT6.MAX
+Mon Nov 24 12:25:44 Saved as file E:\ARCHIVE\FRONT\FRONT6.MAX
+Mon Nov 24 12:26:12 Saved as file E:\ARCHIVE\FRONT\FRONT6.MAX
+Mon Nov 24 12:26:49 Saved as file E:\ARCHIVE\FRONT\FRONT6.MAX
+Mon Nov 24 12:28:56 Saved as file BACKUP1.MAX
+Mon Nov 24 12:30:53 Saved as file E:\ARCHIVE\FRONT\FRONT6.MAX
+Wed Dec 03 01:48:00 Saved as file BACKUP1.MAX
+Wed Dec 03 01:58:00 Saved as file BACKUP1.MAX
+Wed Dec 03 02:08:00 Saved as file BACKUP1.MAX
+Mon Mar 15 22:42:49 Loaded file C:\Cadence\PSD_14.0\Layout_Eng_Ed\data\template.imp
+Mon Mar 15 22:42:49 Loaded file C:\Cadence\PSD_14.0\Layout_Eng_Ed\data\template.imp
+Mon Mar 15 22:42:50 Loaded file C:\Cadence\PSD_14.0\Layout_Eng_Ed\library\BCON156T.llb
+Mon Mar 15 22:42:50 Loaded file C:\Cadence\PSD_14.0\Layout_Eng_Ed\library\BGA.llb
+Mon Mar 15 22:42:51 Loaded file C:\Cadence\PSD_14.0\Layout_Eng_Ed\library\BCON100T.llb
+Mon Mar 15 22:59:37 Saved as file D:\ORCAD\CONTROL BOX\FRONT\FRONT7-10-3-2004.MAX
+Mon Mar 15 23:00:28 Saved as file BACKUP1.MAX
+Mon Mar 15 23:11:58 Saved as file BACKUP1.MAX
+Mon Mar 15 23:13:23 Saved as file D:\ORCAD\CONTROL BOX\FRONT\FRONT7-10-3-2004.MAX
+Mon Mar 15 23:13:55 Loaded file C:\Cadence\PSD_14.0\Layout_Eng_Ed\data\DEFAULT.MAX
+Sat May 05 21:02:08 Saved as file BACKUP1.MAX
+Sat May 05 21:12:08 Saved as file BACKUP1.MAX
+Sat May 05 21:22:08 Saved as file BACKUP1.MAX
+Sat May 05 21:32:08 Saved as file BACKUP1.MAX
+Sat May 05 21:42:08 Saved as file BACKUP1.MAX
+Sat May 05 21:52:08 Saved as file BACKUP1.MAX
+Sat May 05 22:02:08 Saved as file BACKUP1.MAX
+Sat May 05 22:12:08 Saved as file BACKUP1.MAX
+Sat May 05 22:22:08 Saved as file BACKUP1.MAX
+Sat May 05 22:32:09 Saved as file BACKUP1.MAX
+Sat May 05 22:42:09 Saved as file BACKUP1.MAX
+Sat May 05 22:52:09 Saved as file BACKUP1.MAX
+Sat May 05 23:02:09 Saved as file BACKUP1.MAX
+Sat May 05 23:12:09 Saved as file BACKUP1.MAX
+Sat May 05 23:22:09 Saved as file BACKUP1.MAX
+Sat May 05 23:23:51 Saved as file D:\ORCAD\CONTROL BOX\VER2007\FRONT\FRONT7-10-3-2004.MAX
+Sat May 05 23:24:43 UserDiv from Layout.INI for AutoECO: 60
+Sat May 05 23:24:43 Loaded file D:\ORCAD\CONTROL BOX\VER2007\FRONT\FRONT7-10-3-2004.MAX
+Sat May 05 23:24:43 Loaded file D:\ORCAD\DINO_SMT.LLB
+Sat May 05 23:24:43 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\library\BCON100T.llb
+Sat May 05 23:24:43 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\library\BCON156T.llb
+Sat May 05 23:24:43 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\library\BGA.llb
+Sat May 05 23:24:43 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\library\CLCC.llb
+Sat May 05 23:24:43 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\library\DCON050T.llb
+Sat May 05 23:24:43 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\library\DCON085T.llb
+Sat May 05 23:24:43 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\library\DIMM050F.llb
+Sat May 05 23:24:43 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\library\DIMM050T.llb
+Sat May 05 23:24:43 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\library\DIN.llb
+Sat May 05 23:24:43 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\library\DIP100B.llb
+Sat May 05 23:24:43 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\library\DIP100T.llb
+Sat May 05 23:24:43 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\library\DSUBT.llb
+Sat May 05 23:24:43 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\library\DSUBT_HD.LLB
+Sat May 05 23:24:43 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\library\ECON100T.llb
+Sat May 05 23:24:43 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\library\FBUS.llb
+Sat May 05 23:24:43 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\library\ISA.llb
+Sat May 05 23:24:43 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\library\JUMPER.LLB
+Sat May 05 23:24:43 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\library\LAYOUT.llb
+Sat May 05 23:24:43 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\library\LCON100T.llb
+Sat May 05 23:24:43 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\library\PC104.llb
+Sat May 05 23:24:43 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\library\PCI.llb
+Sat May 05 23:24:43 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\library\PCON100T.llb
+Sat May 05 23:24:43 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\library\PCON156T.llb
+Sat May 05 23:24:43 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\library\PGA.llb
+Sat May 05 23:24:43 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\library\PLCC.llb
+Sat May 05 23:24:43 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\library\QUAD.llb
+Sat May 05 23:24:43 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\library\QUADB.llb
+Sat May 05 23:24:43 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\library\RELAY.llb
+Sat May 05 23:24:43 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\library\RF.llb
+Sat May 05 23:24:43 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\library\SBUS.llb
+Sat May 05 23:24:43 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\library\SIMM050F.llb
+Sat May 05 23:24:43 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\library\SIMM050T.llb
+Sat May 05 23:24:43 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\library\SIMM100F.llb
+Sat May 05 23:24:43 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\library\SIMM100T.llb
+Sat May 05 23:24:43 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\library\SIP.llb
+Sat May 05 23:24:43 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\library\SM.llb
+Sat May 05 23:24:43 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\library\SOG.llb
+Sat May 05 23:24:43 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\library\SOJ.llb
+Sat May 05 23:24:43 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\library\STIFF.llb
+Sat May 05 23:24:43 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\library\TELE.llb
+Sat May 05 23:24:43 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\library\TM_AXIAL.llb
+Sat May 05 23:24:43 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\library\TM_CAP_P.llb
+Sat May 05 23:24:43 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\library\TM_CYLND.llb
+Sat May 05 23:24:43 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\library\TM_DIODE.llb
+Sat May 05 23:24:43 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\library\TM_DISC.llb
+Sat May 05 23:24:43 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\library\TM_RAD.llb
+Sat May 05 23:24:43 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\library\TO.llb
+Sat May 05 23:24:43 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\library\TRAINING.LLB
+Sat May 05 23:24:43 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\library\VRES.llb
+Sat May 05 23:24:43 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\library\WCON100T.llb
+Sat May 05 23:24:43 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\library\XT.llb
+Sat May 05 23:24:43 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\library\ZIGZAG.llb
+Sat May 05 23:24:45 Saved as file D:\ORCAD\CONTROL BOX\VER2007\FRONT\FRONT8.MAX
+Sat May 05 23:25:33 Saved as file D:\ORCAD\CONTROL BOX\VER2007\FRONT\FRONT8.MAX
+Sat May 05 23:35:28 Saved as file BACKUP1.MAX
+Sat May 05 23:36:33 Saved as file D:\ORCAD\CONTROL BOX\VER2007\FRONT\FRONT8.MAX
+Sat May 05 23:39:09 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\data\template.imp
+Sat May 05 23:39:09 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\data\template.imp
+Sat May 05 23:39:09 Footprint coords will be rounded to nearest base unit.
+Sat May 05 23:39:09 Footprint coords will be rounded to nearest base unit.
+Sat May 05 23:39:09 Footprint coords will be rounded to nearest base unit.
+Sat May 05 23:39:09 Footprint coords will be rounded to nearest base unit.
+Sat May 05 23:39:09 Footprint coords will be rounded to nearest base unit.
+Sat May 05 23:39:09 Footprint coords will be rounded to nearest base unit.
+Sat May 05 23:39:09 Footprint coords will be rounded to nearest base unit.
+Sat May 05 23:39:09 Footprint coords will be rounded to nearest base unit.
+Sat May 05 23:39:09 Footprint coords will be rounded to nearest base unit.
+Sat May 05 23:39:09 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\data\template.imp
+Sat May 05 23:39:09 Footprint coords will be rounded to nearest base unit.
+Sat May 05 23:39:09 Footprint coords will be rounded to nearest base unit.
+Sat May 05 23:39:09 Footprint coords will be rounded to nearest base unit.
+Sat May 05 23:39:09 Footprint coords will be rounded to nearest base unit.
+Sat May 05 23:39:09 Footprint coords will be rounded to nearest base unit.
+Sat May 05 23:39:09 Footprint coords will be rounded to nearest base unit.
+Sat May 05 23:39:09 Footprint coords will be rounded to nearest base unit.
+Sat May 05 23:39:09 Footprint coords will be rounded to nearest base unit.
+Sat May 05 23:39:09 Footprint coords will be rounded to nearest base unit.
+Sat May 05 23:39:09 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\data\template.imp
+Sat May 05 23:39:10 Loaded file D:\ORCAD\DINO_SMT.LLB
+Sat May 05 23:39:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\data\template.imp
+Sat May 05 23:39:12 Footprint coords will be rounded to nearest base unit.
+Sat May 05 23:39:12 Footprint coords will be rounded to nearest base unit.
+Sat May 05 23:39:12 Footprint coords will be rounded to nearest base unit.
+Sat May 05 23:39:12 Footprint coords will be rounded to nearest base unit.
+Sat May 05 23:39:12 Footprint coords will be rounded to nearest base unit.
+Sat May 05 23:39:12 Footprint coords will be rounded to nearest base unit.
+Sat May 05 23:39:12 Footprint coords will be rounded to nearest base unit.
+Sat May 05 23:39:12 Footprint coords will be rounded to nearest base unit.
+Sat May 05 23:39:12 Footprint coords will be rounded to nearest base unit.
+Sat May 05 23:39:12 Footprint coords will be rounded to nearest base unit.
+Sat May 05 23:39:12 Footprint coords will be rounded to nearest base unit.
+Sat May 05 23:39:12 Footprint coords will be rounded to nearest base unit.
+Sat May 05 23:39:12 Footprint coords will be rounded to nearest base unit.
+Sat May 05 23:39:12 Footprint coords will be rounded to nearest base unit.
+Sat May 05 23:39:12 Footprint coords will be rounded to nearest base unit.
+Sat May 05 23:39:15 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\data\template.imp
+Sat May 05 23:39:15 Footprint coords will be rounded to nearest base unit.
+Sat May 05 23:39:15 Footprint coords will be rounded to nearest base unit.
+Sat May 05 23:39:15 Footprint coords will be rounded to nearest base unit.
+Sat May 05 23:39:15 Footprint coords will be rounded to nearest base unit.
+Sat May 05 23:39:15 Footprint coords will be rounded to nearest base unit.
+Sat May 05 23:39:15 Footprint coords will be rounded to nearest base unit.
+Sat May 05 23:39:15 Footprint coords will be rounded to nearest base unit.
+Sat May 05 23:39:15 Footprint coords will be rounded to nearest base unit.
+Sat May 05 23:39:15 Footprint coords will be rounded to nearest base unit.
+Sat May 05 23:39:18 Footprint coords will be rounded to nearest base unit.
+Sat May 05 23:39:18 Footprint coords will be rounded to nearest base unit.
+Sat May 05 23:39:18 Footprint coords will be rounded to nearest base unit.
+Sat May 05 23:39:18 Footprint coords will be rounded to nearest base unit.
+Sat May 05 23:39:18 Footprint coords will be rounded to nearest base unit.
+Sat May 05 23:39:18 Footprint coords will be rounded to nearest base unit.
+Sat May 05 23:39:18 Footprint coords will be rounded to nearest base unit.
+Sat May 05 23:39:18 Footprint coords will be rounded to nearest base unit.
+Sat May 05 23:39:18 Footprint coords will be rounded to nearest base unit.
+Sat May 05 23:40:09 Saved as file D:\ORCAD\CONTROL BOX\VER2007\FRONT\FRONT8.MAX
+Sat May 05 23:40:40 Saved as file D:\ORCAD\CONTROL BOX\VER2007\FRONT\FRONT8.MAX
+Sat May 05 23:41:51 Saved as file D:\ORCAD\CONTROL BOX\VER2007\FRONT\FRONT8.MAX
+Sat May 05 23:43:46 Saved as file D:\ORCAD\CONTROL BOX\VER2007\FRONT\FRONT8.MAX
+Sat May 05 23:45:59 Saved as file BACKUP1.MAX
+Sat May 05 23:55:59 Saved as file BACKUP1.MAX
+Sat May 05 23:57:46 Saved as file D:\ORCAD\CONTROL BOX\VER2007\FRONT\FRONT8.MAX
+Sun May 06 00:06:29 Saved as file BACKUP1.MAX
+Sun May 06 00:16:29 Saved as file BACKUP1.MAX
+Sun May 06 00:19:50 Saved as file D:\ORCAD\CONTROL BOX\VER2007\FRONT\FRONT8.MAX
+Sun May 06 00:20:03 Saved as file D:\ORCAD\CONTROL BOX\VER2007\FRONT\FRONT8.MAX
+Fri Feb 22 16:45:01 Saved as file BACKUP1.MAX
+Fri Feb 22 16:55:01 Saved as file BACKUP1.MAX
+Fri Feb 22 17:05:02 Saved as file BACKUP1.MAX
+Fri Feb 22 17:15:02 Saved as file BACKUP1.MAX
+Fri Feb 22 17:25:02 Saved as file BACKUP1.MAX
+Fri Feb 22 17:43:22 Saved as file D:\DESIGN\ITS-HW\CONTROL BOX\!__PCB\VER2008\FRONT\FRONT8.MAX
+Fri Feb 22 17:45:03 Saved as file D:\DESIGN\ITS-HW\CONTROL BOX\!__PCB\VER2008\FRONT\FRONT8.MAX
+Tue Mar 04 19:56:09 Saved as file D:\DESIGN\ITS-HW\CONTROL BOX\!__PCB\VER2008\FRONT\FRONT8.MAX
+Tue Mar 04 19:56:30 Saved as file D:\DESIGN\ITS-HW\CONTROL BOX\!__PCB\VER2008\FRONT\FRONT8.MAX
+Fri Mar 14 14:30:29 Saved as file BACKUP1.MAX

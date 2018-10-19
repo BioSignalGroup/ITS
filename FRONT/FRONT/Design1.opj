@@ -1,0 +1,53 @@
+(ExpressProject "Design1"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\design1.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (LastUsedLibraryBrowseDirectory "D:\cadence\PSD_14\Capture\Library")
+  (PartMRUSelector
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName "D:\CADENCE\PSD_14\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName "D:\CADENCE\PSD_14\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (NOR2
+      (FullPartName "NOR2.Normal")
+      (LibraryName "D:\CADENCE\PSD_14\CAPTURE\LIBRARY\GATE.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "D:\orcad\CONTROL BOX\ver2007\FRONT\design1.dsn")
+      (Path "Design Resources" "D:\orcad\CONTROL BOX\ver2007\FRONT\design1.dsn"
+         "SCHEMATIC1")
+      (Path "Design Resources" "D:\orcad\CONTROL BOX\ver2007\FRONT\design1.dsn"
+         "Design Cache")
+      (Select "Design Resources"
+         "D:\orcad\CONTROL BOX\ver2007\FRONT\design1.dsn" "SCHEMATIC1" "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -30 0 200 0 475"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 1 0 605 -4 -30 88 958 116 549")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "D:\ORCAD\CONTROL BOX\VER2007\FRONT\DESIGN1.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1")))
+  (MPSSessionName "Dino"))
