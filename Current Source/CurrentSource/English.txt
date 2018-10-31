@@ -1,0 +1,8 @@
+
+Description of the function of the BSG002 current source
+
+The current source is capable of supplying a current of 0-700 UA at a maximum voltage of 1000 V. 
+The current source includes protection, namely the voltage limiter, which does not allow to exceed the voltage at the output of the power supply 1000 V, voltage measured directly at the output of the source by a resistive divider. 
+An adjustable short-voltage comparator is also attached to the drag divider. The source stream is measured indirectly on the output resistance. 
+	In the case of a prototype source, the current measurement was carried out directly through the panel meter. In pulse mode, the meter showed an effective, i.e. The current mean value. In the final solution, a measurement adjustment was made so that the meter showed the Stejnosmernou value of the current even in pulse mode. 
+	The output value of the power supply can be set to analog optically separated input, which is solved as a optoizolacní amplifier with its own power supply and the triggering (binary signal) optically separated. Another option robe
